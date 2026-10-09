@@ -9,7 +9,7 @@
 
 # atStation
 
-# stopId
+# ontology: stopId, csv: ID
 rr:predicateObjectMap [
     rr:predicateMap [rr:constant dbd:stopId;
         rr:termType rr:IRI];
@@ -19,7 +19,7 @@ rr:predicateObjectMap [
 
 ];
 
-# lineLabel
+# ontology: lineLabel, csv: line
 rr:predicateObjectMap [
     rr:predicateMap [rr:constant dbd:lineLabel;
         rr:termType rr:IRI];
@@ -29,7 +29,7 @@ rr:predicateObjectMap [
 
 ];
 
-# previousStations
+# ontology: previousStations, csv: path
 rr:predicateObjectMap [
     rr:predicateMap [rr:constant dbd:previousStations;
         rr:termType rr:IRI];
@@ -38,7 +38,7 @@ rr:predicateObjectMap [
         rr:datatype xsd:string];
 ];
 
-# plannedArrival
+# ontology: plannedArrival, csv: arrival_plan
 rr:predicateObjectMap [
     rr:predicateMap [rr:constant dbd:plannedArrival;
         rr:termType rr:IRI];
@@ -47,7 +47,7 @@ rr:predicateObjectMap [
         rr:datatype xsd:dateTime];
 ];
 
-# plannedDeparture
+# ontology: plannedDeparture, csv: departure_plan
 rr:predicateObjectMap [
     rr:predicateMap [rr:constant dbd:plannedDeparture;
         rr:termType rr:IRI];
@@ -56,7 +56,7 @@ rr:predicateObjectMap [
         rr:datatype xsd:dateTime];
 ];
 
-# updatedArrival
+# ontology: updatedArrival, csv: arrival_change
 rr:predicateObjectMap [
     rr:predicateMap [rr:constant dbd:updatedArrival;
         rr:termType rr:IRI];
@@ -65,18 +65,59 @@ rr:predicateObjectMap [
         rr:datatype xsd:dateTime];
 ];
 
-# updatedDeparture
+# ontology: updatedDeparture, csv: departure_change
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:updatedDeparture;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "departure_change";
+        rr:termType rr:Literal;
+        rr:datatype xsd:dateTime];
+];
 
-# arrivalDelayMinutes
+# ontology: arrivalDelayMinutes, csv: arrival_delay_m
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:arrivalDelayMinutes;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "arrival_delay_m";
+        rr:termType rr:Literal;
+        rr:datatype xsd:integer];
+];
 
-# departureDelayMinutes
+# ontology: departureDelayMinutes, csv: departure_delay_m
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:departureDelayMinutes;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "departure_delay_m";
+        rr:termType rr:Literal;
+        rr:datatype xsd:integer];
+];
 
-# arrivalStatus
+# ontology: arrivalStatus, csv: arrival_delay_check
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:arrivalStatus;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "arrival_delay_check";
+        rr:termType rr:Literal;
+        rr:datatype xsd:string];
+];
 
-# departureStatus
+# ontology: departureStatus, csv: departure_delay_check
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:departureStatus;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "departure_delay_check";
+        rr:termType rr:Literal;
+        rr:datatype xsd:string];
+];
 
-# information
-
+# ontology: information, csv: info
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:information;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "info";
+        rr:termType rr:Literal;
+        rr:datatype xsd:string];
+];
 
 
 

@@ -1,0 +1,64 @@
+# trainstop class
+
+# atStation
+
+# stopId
+
+# lineLabel
+
+# previousStations
+
+# plannedArrival
+
+# plannedDeparture
+
+# updatedArrival
+
+# updatedDeparture
+
+# arrivalDelayMinutes
+
+# departureDelayMinutes
+
+# arrivalStatus
+
+# departureStatus
+
+# information
+
+
+
+
+
+
+# station class
+
+# inCity
+
+# evaNumber
+
+# stationName
+
+# stationCategory
+
+# postalCode
+
+# longitude
+
+# latitude
+
+
+
+
+
+
+# city class
+
+# inState
+
+
+
+
+
+
+# state class

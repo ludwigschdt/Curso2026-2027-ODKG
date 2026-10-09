@@ -1,4 +1,3 @@
-@prefix ex: <http://example.org/>.
 @prefix rml: <http://w3id.org/rml/>.
 @prefix rr: <http://www.w3.org/ns/r2rml#>.
 @prefix dbd: <https://example.org/db-delays/ontology/#> .

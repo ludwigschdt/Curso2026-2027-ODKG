@@ -10,16 +10,60 @@
 # atStation
 
 # stopId
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:stopId;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "ID";
+        rr:termType rr:Literal;
+        rr:datatype xsd:string];
+
+];
 
 # lineLabel
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:lineLabel;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "line";
+        rr:termType rr:Literal;
+        rr:datatype xsd:string];
+
+];
 
 # previousStations
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:previousStations;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "path";
+        rr:termType rr:Literal;
+        rr:datatype xsd:string];
+];
 
 # plannedArrival
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:plannedArrival;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "arrival_plan";
+        rr:termType rr:Literal;
+        rr:datatype xsd:dateTime];
+];
 
 # plannedDeparture
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:plannedDeparture;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "departure_plan";
+        rr:termType rr:Literal;
+        rr:datatype xsd:dateTime];
+];
 
 # updatedArrival
+rr:predicateObjectMap [
+    rr:predicateMap [rr:constant dbd:updatedArrival;
+        rr:termType rr:IRI];
+    rr:objectMap [rml:reference "arrival_change";
+        rr:termType rr:Literal;
+        rr:datatype xsd:dateTime];
+];
 
 # updatedDeparture
 

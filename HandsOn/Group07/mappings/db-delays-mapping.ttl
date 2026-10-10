@@ -1,4 +1,4 @@
-@prefix rml: <http://w3id.org/rml/>.
+@prefix rml: <http://semweb.mmlab.be/ns/rml#>.
 @prefix rr: <http://www.w3.org/ns/r2rml#>.
 @prefix dbd: <https://example.org/db-delays/ontology/#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -11,11 +11,11 @@
 
 # state class
 
-<#StateMapping>
+<#StateMap> a rr:TriplesMap ;
     rml:logicalSource [ rml:source "../csv/DBtrainrides.csv";
                        rml:referenceFormulation ql:CSV ] ;
     rr:subjectMap [
-        rr:template "http://example.org/db-delays/resource/State/{state}" ;
+        rr:template "https://example.org/db-delays/resource/State/{state}" ;
         rr:class dbd:State ;
         rr:termType rr:IRI;
     ];
@@ -31,52 +31,50 @@
 
 # city class
 
-<#CityMap>
+<#CityMap> a rr:TriplesMap ;
 rml:logicalSource [
     rml:source "../csv/DBtrainrides.csv";
     rml:referenceFormulation ql:CSV;
   ];
 
 rr:subjectMap [
-    rr:template "http://example.org/db-delays/resource/City/{city}";
+    rr:template "https://example.org/db-delays/resource/City/{state}/{city}";
     rr:class dbd:City;
-]
+];
 
 rr:predicateObjectMap [
     rr:predicate rdfs:label;
     rr:objectMap [
-        rr:reference "city"
+        rml:reference "city"
     ]
 ];
 
 rr:predicateObjectMap [
     rr:predicate dbd:inState;
     rr:objectMap [
-        rr:template "http://example.org/db-delays/resource/State/{state}"
-        rr:termType rr:IRI;
+        rr:parentTriplesMap <#StateMap>
     ]
-];
+].
 
 
 
 # trainstop class
-<#TrainStopMap>
+<#TrainStopMap> a rr:TriplesMap ;
 rml:logicalSource [
     rml:source "../csv/DBtrainrides.csv";
     rml:referenceFormulation ql:CSV;
   ];
 
 rr:subjectMap [
-    rr:template "http://example.org/db-delays/resource/TrainStop/{ID}";
+    rr:template "https://example.org/db-delays/resource/TrainStop/{ID}";
     rr:class dbd:TrainStop;
 ];
-
 
 # ontology: atStation, csv: eva_nr
 rr:predicateObjectMap [
         rr:predicate dbd:atStation ;
         rr:objectMap [
-            rr:template "http://example.org/db-delays/resource/Station/{eva_nr}"
+            rr:parentTriplesMap <#StationMap>
         ]
 ];
 
@@ -226,8 +224,8 @@ rr:predicateObjectMap [
         rr:predicateMap [rr:constant rdfs:label;
             rr:termType rr:IRI];
         rr:objectMap [rml:reference "station";
-            rr:termType rr:Literal;
-            rr:language "de"]
+            rr:termType rr:Literal
+        ]
     ];
 
 # ontology: stationCategory, csv: category

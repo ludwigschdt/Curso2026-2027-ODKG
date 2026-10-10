@@ -12,7 +12,7 @@
 # state class
 
 <#StateMapping>
-    rml:logicalSource [ rml:source "DBtrainrides.csv" ;
+    rml:logicalSource [ rml:source "../csv/DBtrainrides.csv";
                        rml:referenceFormulation ql:CSV ] ;
     rr:subjectMap [
         rr:template "http://example.org/db-delays/resource/State/{state}" ;
@@ -33,7 +33,7 @@
 
 <#CityMap>
 rml:logicalSource [
-    rml:source "DBtrainrides.csv" ;
+    rml:source "../csv/DBtrainrides.csv";
     rml:referenceFormulation ql:CSV;
   ];
 

@@ -5,11 +5,12 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
 
 # state class
 
 <#StateMapping>
-    rml:logicalSource [ rml:source "db-delays.csv" ;
+    rml:logicalSource [ rml:source "DBtrainrides.csv" ;
                        rml:referenceFormulation ql:CSV ] ;
     rr:subjectMap [
         rr:template "http://example.org/db-delays/resource/State/{state}" ;
@@ -27,13 +28,13 @@
 # city class
 
 <#CityMap>
-rml:logicalsource [
+rml:logicalSource [
     rml:source "DBtrainrides.csv" ;
     rml:referenceFormulation ql:CSV;
   ];
 
 rr:subjectMap [
-    rr:template "http://example.org/db-delays/ontology/#{@id}>;
+    rr:template "http://example.org/db-delays/resource/City/{city}";
     rr:class dbd:City;
 ]
 
@@ -44,7 +45,13 @@ rr:predicateObjectMap [
     ]
 ];
 
-# TODO: inState Property
+rr:predicateObjectMap [
+    rr:predicate dbd:inState;
+    rr:objectMap [
+        rr:template "http://example.org/db-delays/resource/State/{state}"
+        rr:termType rr:IRI;
+    ]
+];
 
 # trainstop class
 

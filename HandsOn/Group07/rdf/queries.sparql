@@ -1,5 +1,5 @@
-PREFIX db: <https://example.org/db-delays/ontology/#>  
-
+PREFIX db: <https://example.org/db-delays/ontology/#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 # =================================
 # These queries must return no rows
 # =================================
@@ -74,7 +74,7 @@ SELECT ?stop ?path WHERE {
 
 # Stations in a bounding box (around Berlin)
 SELECT ?name ?lat ?long WHERE {
-  ?st db:stationName ?name ; db:latitude ?lat ; db:longitude ?long .
+  ?st rdfs:label ?name ; db:latitude ?lat ; db:longitude ?long .
   FILTER (?lat > 52.3 && ?lat < 52.7 && ?long > 13.0 && ?long < 13.8)
 }
 

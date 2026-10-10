@@ -38,7 +38,7 @@ rml:logicalSource [
   ];
 
 rr:subjectMap [
-    rr:template "http://example.org/db-delays/resource/City/{city}";
+    rr:template "http://example.org/db-delays/resource/City/{state}/{city}";
     rr:class dbd:City;
 ]
 

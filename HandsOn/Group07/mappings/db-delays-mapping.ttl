@@ -154,3 +154,19 @@ rr:predicateObjectMap [
 
 
 # state class
+
+<#StateMapping>
+    rml:logicalSource [ rml:source "db-delays.csv" ;
+                       rml:referenceFormulation ql:CSV ] ;
+    rr:subjectMap [
+        rr:template "http://example.org/db-delays/resource/State/{state}" ;
+        rr:class dbd:State ;
+        rr:termType rr:IRI;
+    ];
+    rr:predicateObjectMap [
+    rr:predicate rdfs:label ;
+    rr:objectMap [
+        rml:reference "state" ;
+        rr:datatype xsd:string
+    ]
+] .

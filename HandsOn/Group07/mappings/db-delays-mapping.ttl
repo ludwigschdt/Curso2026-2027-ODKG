@@ -5,6 +5,47 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+# state class
+
+<#StateMapping>
+    rml:logicalSource [ rml:source "db-delays.csv" ;
+                       rml:referenceFormulation ql:CSV ] ;
+    rr:subjectMap [
+        rr:template "http://example.org/db-delays/resource/State/{state}" ;
+        rr:class dbd:State ;
+        rr:termType rr:IRI;
+    ];
+    rr:predicateObjectMap [
+    rr:predicate rdfs:label ;
+    rr:objectMap [
+        rml:reference "state" ;
+        rr:datatype xsd:string
+    ]
+] .
+
+# city class
+
+<#CityMap>
+rml:logicalsource [
+    rml:source "DBtrainrides.csv" ;
+    rml:referenceFormulation ql:CSV;
+  ];
+
+rr:subjectMap [
+    rr:template "http://example.org/db-delays/ontology/#{@id}>;
+    rr:class dbd:City;
+]
+
+rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [
+        rr:reference "city"
+    ]
+];
+
+# TODO: inState Property
+
 # trainstop class
 
 # atStation
@@ -119,10 +160,6 @@ rr:predicateObjectMap [
         rr:datatype xsd:string];
 ];
 
-
-
-
-
 # station class
 
 # inCity
@@ -138,35 +175,3 @@ rr:predicateObjectMap [
 # longitude
 
 # latitude
-
-
-
-
-
-
-# city class
-
-# inState
-
-
-
-
-
-
-# state class
-
-<#StateMapping>
-    rml:logicalSource [ rml:source "db-delays.csv" ;
-                       rml:referenceFormulation ql:CSV ] ;
-    rr:subjectMap [
-        rr:template "http://example.org/db-delays/resource/State/{state}" ;
-        rr:class dbd:State ;
-        rr:termType rr:IRI;
-    ];
-    rr:predicateObjectMap [
-    rr:predicate rdfs:label ;
-    rr:objectMap [
-        rml:reference "state" ;
-        rr:datatype xsd:string
-    ]
-] .

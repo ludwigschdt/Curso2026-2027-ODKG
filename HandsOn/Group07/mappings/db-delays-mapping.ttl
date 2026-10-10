@@ -38,7 +38,7 @@ rml:logicalSource [
   ];
 
 rr:subjectMap [
-    rr:template "http://example.org/db-delays/resource/City/{state}/{city}";
+    rr:template "http://example.org/db-delays/resource/City/{city}";
     rr:class dbd:City;
 ]
 
@@ -60,8 +60,25 @@ rr:predicateObjectMap [
 
 
 # trainstop class
+<#TrainStopMap>
+rml:logicalSource [
+    rml:source "../csv/DBtrainrides.csv";
+    rml:referenceFormulation ql:CSV;
+  ];
 
-# atStation
+rr:subjectMap [
+    rr:template "http://example.org/db-delays/resource/TrainStop/{ID}";
+    rr:class dbd:TrainStop;
+];
+
+
+# ontology: atStation, csv: eva_nr
+rr:predicateObjectMap [
+        rr:predicate dbd:atStation ;
+        rr:objectMap [
+            rr:template "http://example.org/db-delays/resource/Station/{eva_nr}"
+        ]
+];
 
 # ontology: stopId, csv: ID
 rr:predicateObjectMap [

@@ -60,7 +60,7 @@ SELECT ?class (COUNT(?x) AS ?n) WHERE {
 
 # Stops at a given station (adjust EVA), with delays
 SELECT ?stop ?line ?plannedArrival ?arrivalDelayMinutes WHERE {
-  ?st db:evaNumber "8000001" .
+  ?st db:evaNumber "8089075" .
   ?stop db:atStation ?st ; db:plannedArrival ?plannedArrival .
   OPTIONAL { ?stop db:lineLabel ?line }
   OPTIONAL { ?stop db:arrivalDelayMinutes ?arrivalDelayMinutes }

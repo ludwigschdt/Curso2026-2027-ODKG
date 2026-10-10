@@ -70,6 +70,16 @@ rr:subjectMap [
     rr:class dbd:TrainStop;
 ];
 
+# name for the recorded stop
+rr:predicateObjectMap [
+    rr:predicate rdfs:label ;
+    rr:objectMap [
+        rr:template "Train stop {ID}" ;
+        rr:termType rr:Literal ;
+        rr:datatype xsd:string
+    ]
+];
+
 # ontology: atStation, csv: eva_nr
 rr:predicateObjectMap [
         rr:predicate dbd:atStation ;

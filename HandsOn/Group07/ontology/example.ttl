@@ -1,5 +1,5 @@
 @base <https://example.org/db-delays/resource/> .
-@prefix dbd: <https://example.org/db-delays/ontology/#> .
+@prefix dbd: <https://example.org/db-delays/ontology#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 

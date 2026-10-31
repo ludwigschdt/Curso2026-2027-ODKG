@@ -8,8 +8,8 @@ import subprocess
 import tempfile
 
 
-CUSTOM_SHAPES = r'''@prefix dbd: <https://example.org/db-delays/ontology/#> .
-@prefix shape: <https://example.org/db-delays/shapes/#> .
+CUSTOM_SHAPES = r'''@prefix dbd: <https://example.org/db-delays/ontology#> .
+@prefix shape: <https://example.org/db-delays/shapes/> .
 @prefix sh: <http://www.w3.org/ns/shacl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
@@ -104,7 +104,7 @@ class GenerateAstrea {
     raw = Graph().parse(raw_path, format="turtle")
     sh = Namespace("http://www.w3.org/ns/shacl#")
     repairs = Graph()
-    repairs.bind("dbd", Namespace("https://example.org/db-delays/ontology/#"))
+    repairs.bind("dbd", Namespace("https://example.org/db-delays/ontology#"))
     repairs.bind("sh", sh)
     properties = set(ontology.subjects(RDF.type, OWL.ObjectProperty)) | set(
         ontology.subjects(RDF.type, OWL.DatatypeProperty)
@@ -271,7 +271,7 @@ def main():
     original_triples = set(data)
     shapes = Graph().parse(args.shapes, format="turtle")
     sh = Namespace("http://www.w3.org/ns/shacl#")
-    dbd = Namespace("https://example.org/db-delays/ontology/#")
+    dbd = Namespace("https://example.org/db-delays/ontologyj")
 
     def check(graph, destination):
         conforms, report, _ = validate(

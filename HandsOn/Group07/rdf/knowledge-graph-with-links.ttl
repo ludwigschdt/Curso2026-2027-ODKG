@@ -15329,7 +15329,7 @@
     owl:sameAs <https://wikidata.org/entity/Q1055> .
 
 <https://example.org/db-delays/resource/Station/8000002> a ns1:Station ;
-    rdfs:label "Aalen Central station" ;
+    rdfs:label "Station:Aalen Central station" ;
     owl:sameAs <https://wikidata.org/entity/Q319241> ;
     ns1:evaNumber "8000002" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/%D0%90%D0%B0%D0%BB%D0%B5%D0%BD> ;
@@ -15339,7 +15339,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000004> a ns1:Station ;
-    rdfs:label "Altenbeken station" ;
+    rdfs:label "Station:Altenbeken station" ;
     owl:sameAs <https://wikidata.org/entity/Q322534> ;
     ns1:evaNumber "8000004" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Altenbeken> ;
@@ -15349,7 +15349,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000009> a ns1:Station ;
-    rdfs:label "Ansbach" ;
+    rdfs:label "Station:Ansbach" ;
     owl:sameAs <https://wikidata.org/entity/Q138493> ;
     ns1:evaNumber "8000009" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Ansbach> ;
@@ -15359,7 +15359,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000010> a ns1:Station ;
-    rdfs:label "Aschaffenburg Hauptbahnhof" ;
+    rdfs:label "Station:Aschaffenburg Hauptbahnhof" ;
     owl:sameAs <https://wikidata.org/entity/Q203532> ;
     ns1:evaNumber "8000010" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Aschaffenburg> ;
@@ -15369,7 +15369,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8000012> a ns1:Station ;
-    rdfs:label "Au station" ;
+    rdfs:label "Station:Au station" ;
     owl:sameAs <https://wikidata.org/entity/Q2548582> ;
     ns1:evaNumber "8000012" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Windeck> ;
@@ -15379,7 +15379,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000020> a ns1:Station ;
-    rdfs:label "Bad Hersfeld station" ;
+    rdfs:label "Station:Bad Hersfeld station" ;
     owl:sameAs <https://wikidata.org/entity/Q324739> ;
     ns1:evaNumber "8000020" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bad%20Hersfeld> ;
@@ -15389,7 +15389,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000021> a ns1:Station ;
-    rdfs:label "Bad Kreuznach station" ;
+    rdfs:label "Station:Bad Kreuznach station" ;
     owl:sameAs <https://wikidata.org/entity/Q800428> ;
     ns1:evaNumber "8000021" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Bad%20Kreuznach> ;
@@ -15399,7 +15399,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000022> a ns1:Station ;
-    rdfs:label "old Bad Nenndorf railway station" ;
+    rdfs:label "Station:old Bad Nenndorf railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q108304066> ;
     ns1:evaNumber "8000022" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Bad%20Nenndorf> ;
@@ -15409,7 +15409,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000029> a ns1:Station ;
-    rdfs:label "Bebra railway station" ;
+    rdfs:label "Station:Bebra railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q326569> ;
     ns1:evaNumber "8000029" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bebra> ;
@@ -15419,7 +15419,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000036> a ns1:Station ;
-    rdfs:label "Bielefeld Central Station" ;
+    rdfs:label "Station:Bielefeld Central Station" ;
     owl:sameAs <https://wikidata.org/entity/Q564750> ;
     ns1:evaNumber "8000036" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bielefeld> ;
@@ -15429,7 +15429,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8000045> a ns1:Station ;
-    rdfs:label "Boppard Central Station" ;
+    rdfs:label "Station:Boppard Central Station" ;
     owl:sameAs <https://wikidata.org/entity/Q438795> ;
     ns1:evaNumber "8000045" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Boppard> ;
@@ -15439,7 +15439,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000047> a ns1:Station ;
-    rdfs:label "Bottrop Central Station" ;
+    rdfs:label "Station:Bottrop Central Station" ;
     owl:sameAs <https://wikidata.org/entity/Q323893> ;
     ns1:evaNumber "8000047" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bottrop> ;
@@ -15449,7 +15449,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000059> a ns1:Station ;
-    rdfs:label "Bünde (Westf) station" ;
+    rdfs:label "Station:Bünde (Westf) station" ;
     owl:sameAs <https://wikidata.org/entity/Q317151> ;
     ns1:evaNumber "8000059" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/B%C3%BCnde> ;
@@ -15459,7 +15459,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000359> a ns1:Station ;
-    rdfs:label "Bodenheim station" ;
+    rdfs:label "Station:Bodenheim station" ;
     owl:sameAs <https://wikidata.org/entity/Q67585790> ;
     ns1:evaNumber "8000359" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Bodenheim> ;
@@ -15469,7 +15469,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000406> a ns1:Station ;
-    rdfs:label "Aachen-Rothe Erde station" ;
+    rdfs:label "Station:Aachen-Rothe Erde station" ;
     owl:sameAs <https://wikidata.org/entity/Q323235> ;
     ns1:evaNumber "8000406" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Aachen> ;
@@ -15479,7 +15479,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000413> a ns1:Station ;
-    rdfs:label "Achim railway station" ;
+    rdfs:label "Station:Achim railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q15944978> ;
     ns1:evaNumber "8000413" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Achim> ;
@@ -15489,7 +15489,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000452> a ns1:Station ;
-    rdfs:label "Aichach station" ;
+    rdfs:label "Station:Aichach station" ;
     owl:sameAs <https://wikidata.org/entity/Q57174619> ;
     ns1:evaNumber "8000452" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Aichach> ;
@@ -15499,7 +15499,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000483> a ns1:Station ;
-    rdfs:label "Alfeld (Leine) station" ;
+    rdfs:label "Station:Alfeld (Leine) station" ;
     owl:sameAs <https://wikidata.org/entity/Q9147461> ;
     ns1:evaNumber "8000483" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Alfeld> ;
@@ -15509,7 +15509,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000496> a ns1:Station ;
-    rdfs:label "Allensbach station" ;
+    rdfs:label "Station:Allensbach station" ;
     owl:sameAs <https://wikidata.org/entity/Q11685458> ;
     ns1:evaNumber "8000496" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Allensbach> ;
@@ -15519,7 +15519,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000532> a ns1:Station ;
-    rdfs:label "Lennestadt-Altenhundem railway station" ;
+    rdfs:label "Station:Lennestadt-Altenhundem railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q108921347> ;
     ns1:evaNumber "8000532" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Lennestadt> ;
@@ -15529,7 +15529,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000576> a ns1:Station ;
-    rdfs:label "Ampfing station" ;
+    rdfs:label "Station:Ampfing station" ;
     owl:sameAs <https://wikidata.org/entity/Q76885764> ;
     ns1:evaNumber "8000576" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Ampfing> ;
@@ -15539,7 +15539,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000602> a ns1:Station ;
-    rdfs:label "Armsheim station" ;
+    rdfs:label "Station:Armsheim station" ;
     owl:sameAs <https://wikidata.org/entity/Q22691245> ;
     ns1:evaNumber "8000602" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Armsheim> ;
@@ -15549,7 +15549,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000605> a ns1:Station ;
-    rdfs:label "Arnsberg (Westfalen) station" ;
+    rdfs:label "Station:Arnsberg (Westfalen) station" ;
     owl:sameAs <https://wikidata.org/entity/Q800396> ;
     ns1:evaNumber "8000605" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Arnsberg> ;
@@ -15559,7 +15559,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000669> a ns1:Station ;
-    rdfs:label "Aumühle railway station" ;
+    rdfs:label "Station:Aumühle railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q18619162> ;
     ns1:evaNumber "8000669" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Aum%C3%BChle> ;
@@ -15569,7 +15569,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000690> a ns1:Station ;
-    rdfs:label "Bad Aibling railway station" ;
+    rdfs:label "Station:Bad Aibling railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q55604663> ;
     ns1:evaNumber "8000690" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Bad%20Aibling> ;
@@ -15579,7 +15579,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000694> a ns1:Station ;
-    rdfs:label "Bad Breisig railway station" ;
+    rdfs:label "Station:Bad Breisig railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q64518422> ;
     ns1:evaNumber "8000694" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Bad%20Breisig> ;
@@ -15589,7 +15589,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000735> a ns1:Station ;
-    rdfs:label "Bad Pyrmont station" ;
+    rdfs:label "Station:Bad Pyrmont station" ;
     owl:sameAs <https://wikidata.org/entity/Q23995132> ;
     ns1:evaNumber "8000735" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Bad%20Pyrmont> ;
@@ -15599,7 +15599,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000742> a ns1:Station ;
-    rdfs:label "Boppard-Bad Salzig station" ;
+    rdfs:label "Station:Boppard-Bad Salzig station" ;
     owl:sameAs <https://wikidata.org/entity/Q116017439> ;
     ns1:evaNumber "8000742" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Boppard> ;
@@ -15609,7 +15609,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000783> a ns1:Station ;
-    rdfs:label "Baiersdorf station" ;
+    rdfs:label "Station:Baiersdorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q114660721> ;
     ns1:evaNumber "8000783" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Baiersdorf> ;
@@ -15619,7 +15619,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000797> a ns1:Station ;
-    rdfs:label "Bantorf station" ;
+    rdfs:label "Station:Bantorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q23721868> ;
     ns1:evaNumber "8000797" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Barsinghausen> ;
@@ -15629,7 +15629,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000807> a ns1:Station ;
-    rdfs:label "Barnstorf station" ;
+    rdfs:label "Station:Barnstorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q4861982> ;
     ns1:evaNumber "8000807" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Barnstorf> ;
@@ -15639,7 +15639,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000812> a ns1:Station ;
-    rdfs:label "Barsinghausen station" ;
+    rdfs:label "Station:Barsinghausen station" ;
     owl:sameAs <https://wikidata.org/entity/Q9166035> ;
     ns1:evaNumber "8000812" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Barsinghausen> ;
@@ -15649,7 +15649,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000882> a ns1:Station ;
-    rdfs:label "Beratzhausen" ;
+    rdfs:label "Station:Beratzhausen" ;
     owl:sameAs <https://wikidata.org/entity/Q116018216> ;
     ns1:evaNumber "8000882" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Beratzhausen> ;
@@ -15659,7 +15659,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000911> a ns1:Station ;
-    rdfs:label "Bernau am Chiemsee station" ;
+    rdfs:label "Station:Bernau am Chiemsee station" ;
     owl:sameAs <https://wikidata.org/entity/Q50876651> ;
     ns1:evaNumber "8000911" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Bernau%20am%20Chiemsee> ;
@@ -15669,7 +15669,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000925> a ns1:Station ;
-    rdfs:label "Besigheim station" ;
+    rdfs:label "Station:Besigheim station" ;
     owl:sameAs <https://wikidata.org/entity/Q800519> ;
     ns1:evaNumber "8000925" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Besigheim> ;
@@ -15679,7 +15679,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000975> a ns1:Station ;
-    rdfs:label "Bingen-Gaulsheim station" ;
+    rdfs:label "Station:Bingen-Gaulsheim station" ;
     owl:sameAs <https://wikidata.org/entity/Q116019006> ;
     ns1:evaNumber "8000975" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Gaulsheim> ;
@@ -15689,7 +15689,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000976> a ns1:Station ;
-    rdfs:label "Bingen (Rhein) Stadt station" ;
+    rdfs:label "Station:Bingen (Rhein) Stadt station" ;
     owl:sameAs <https://wikidata.org/entity/Q800529> ;
     ns1:evaNumber "8000976" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Bingen%20am%20Rhein> ;
@@ -15699,7 +15699,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001000> a ns1:Station ;
-    rdfs:label "Bissendorf station" ;
+    rdfs:label "Station:Bissendorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q23920441> ;
     ns1:evaNumber "8001000" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Wedemark> ;
@@ -15709,7 +15709,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001032> a ns1:Station ;
-    rdfs:label "Bobenheim" ;
+    rdfs:label "Station:Bobenheim" ;
     owl:sameAs <https://wikidata.org/entity/Q98152431> ;
     ns1:evaNumber "8001032" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Bobenheim%20am%20Berg> ;
@@ -15719,7 +15719,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001057> a ns1:Station ;
-    rdfs:label "Böhl-Iggelheim station" ;
+    rdfs:label "Station:Böhl-Iggelheim station" ;
     owl:sameAs <https://wikidata.org/entity/Q16318635> ;
     ns1:evaNumber "8001057" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/B%C3%B6hl-Iggelheim> ;
@@ -15729,7 +15729,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001071> a ns1:Station ;
-    rdfs:label "Bohmte railway station" ;
+    rdfs:label "Station:Bohmte railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800544> ;
     ns1:evaNumber "8001071" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Bohmte> ;
@@ -15739,7 +15739,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001080> a ns1:Station ;
-    rdfs:label "Bondorf (b Herrenberg) railway station" ;
+    rdfs:label "Station:Bondorf (b Herrenberg) railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q25090000> ;
     ns1:evaNumber "8001080" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bondorf> ;
@@ -15749,7 +15749,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001098> a ns1:Station ;
-    rdfs:label "Borken (Hess) station" ;
+    rdfs:label "Station:Borken (Hess) station" ;
     owl:sameAs <https://wikidata.org/entity/Q116019486> ;
     ns1:evaNumber "8001098" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Borken> ;
@@ -15759,7 +15759,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001118> a ns1:Station ;
-    rdfs:label "Brake bei Bielefeld station" ;
+    rdfs:label "Station:Brake bei Bielefeld station" ;
     owl:sameAs <https://wikidata.org/entity/Q4956029> ;
     ns1:evaNumber "8001118" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bielefeld> ;
@@ -15769,7 +15769,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001129> a ns1:Station ;
-    rdfs:label "Brannenburg" ;
+    rdfs:label "Station:Brannenburg" ;
     owl:sameAs <https://wikidata.org/entity/Q108647373> ;
     ns1:evaNumber "8001129" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Brannenburg> ;
@@ -15779,7 +15779,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001139> a ns1:Station ;
-    rdfs:label "Bredstedt station" ;
+    rdfs:label "Station:Bredstedt station" ;
     owl:sameAs <https://wikidata.org/entity/Q109380180> ;
     ns1:evaNumber "8001139" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Bredstedt> ;
@@ -15789,7 +15789,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001143> a ns1:Station ;
-    rdfs:label "Breisach railway station" ;
+    rdfs:label "Station:Breisach railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q19787796> ;
     ns1:evaNumber "8001143" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Breisach> ;
@@ -15799,7 +15799,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001149> a ns1:Station ;
-    rdfs:label "Breitengüßbach railway station" ;
+    rdfs:label "Station:Breitengüßbach railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q39878739> ;
     ns1:evaNumber "8001149" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Breiteng%C3%BC%C3%9Fbach> ;
@@ -15809,7 +15809,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001160> a ns1:Station ;
-    rdfs:label "Bremen Mahndorf station" ;
+    rdfs:label "Station:Bremen Mahndorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q9179189> ;
     ns1:evaNumber "8001160" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -15819,7 +15819,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001200> a ns1:Station ;
-    rdfs:label "Bruchmühlbach-Miesau" ;
+    rdfs:label "Station:Bruchmühlbach-Miesau" ;
     owl:sameAs <https://wikidata.org/entity/Q116024908> ;
     ns1:evaNumber "8001200" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Bruchm%C3%BChlbach-Miesau> ;
@@ -15829,7 +15829,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001238> a ns1:Station ;
-    rdfs:label "Bübingen" ;
+    rdfs:label "Station:Bübingen" ;
     owl:sameAs <https://wikidata.org/entity/Q15278348> ;
     ns1:evaNumber "8001238" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saarland/Saarbr%C3%BCcken> ;
@@ -15839,7 +15839,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001279> a ns1:Station ;
-    rdfs:label "Burgdorf station" ;
+    rdfs:label "Station:Burgdorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q19601270> ;
     ns1:evaNumber "8001279" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Burgdorf> ;
@@ -15849,7 +15849,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001322> a ns1:Station ;
-    rdfs:label "Bad Camberg station" ;
+    rdfs:label "Station:Bad Camberg station" ;
     owl:sameAs <https://wikidata.org/entity/Q30238830> ;
     ns1:evaNumber "8001322" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bad%20Camberg> ;
@@ -15859,7 +15859,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001787> a ns1:Station ;
-    rdfs:label "Bad Endorf station" ;
+    rdfs:label "Station:Bad Endorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q800421> ;
     ns1:evaNumber "8001787" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Bad%20Endorf> ;
@@ -15869,7 +15869,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8003533> a ns1:Station ;
-    rdfs:label "Bad Schönborn Süd station" ;
+    rdfs:label "Station:Bad Schönborn Süd station" ;
     owl:sameAs <https://wikidata.org/entity/Q16006155> ;
     ns1:evaNumber "8003533" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Sch%C3%B6nborn> ;
@@ -15879,7 +15879,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8004474> a ns1:Station ;
-    rdfs:label "Bochum-Langendreer West station" ;
+    rdfs:label "Station:Bochum-Langendreer West station" ;
     owl:sameAs <https://wikidata.org/entity/Q2949629> ;
     ns1:evaNumber "8004474" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bochum> ;
@@ -15889,7 +15889,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8005255> a ns1:Station ;
-    rdfs:label "Bad Säckingen railway station" ;
+    rdfs:label "Station:Bad Säckingen railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q4840444> ;
     ns1:evaNumber "8005255" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20S%C3%A4ckingen> ;
@@ -15899,7 +15899,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010003> a ns1:Station ;
-    rdfs:label "Altenburg railway station" ;
+    rdfs:label "Station:Altenburg railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q318061> ;
     ns1:evaNumber "8010003" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Thuringia/Altenburg> ;
@@ -15909,7 +15909,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010009> a ns1:Station ;
-    rdfs:label "Aschersleben railway station" ;
+    rdfs:label "Station:Aschersleben railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q55604288> ;
     ns1:evaNumber "8010009" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony-Anhalt/Aschersleben> ;
@@ -15919,7 +15919,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8010022> a ns1:Station ;
-    rdfs:label "Bad Schandau railway station" ;
+    rdfs:label "Station:Bad Schandau railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800438> ;
     ns1:evaNumber "8010022" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony/Bad%20Schandau> ;
@@ -15929,7 +15929,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8010026> a ns1:Station ;
-    rdfs:label "Bautzen railway station" ;
+    rdfs:label "Station:Bautzen railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q320740> ;
     ns1:evaNumber "8010026" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony/Bautzen> ;
@@ -15939,7 +15939,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8010031> a ns1:Station ;
-    rdfs:label "Bad Belzig railway station" ;
+    rdfs:label "Station:Bad Belzig railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q22691241> ;
     ns1:evaNumber "8010031" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Bad%20Belzig> ;
@@ -15949,7 +15949,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010033> a ns1:Station ;
-    rdfs:label "Bergen auf Rügen railway station" ;
+    rdfs:label "Station:Bergen auf Rügen railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800466> ;
     ns1:evaNumber "8010033" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bergen%20auf%20R%C3%BCgen> ;
@@ -15959,7 +15959,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8010043> a ns1:Station ;
-    rdfs:label "Bernburg Hauptbahnhof" ;
+    rdfs:label "Station:Bernburg Hauptbahnhof" ;
     owl:sameAs <https://wikidata.org/entity/Q23933722> ;
     ns1:evaNumber "8010043" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony-Anhalt/Bernburg> ;
@@ -15969,7 +15969,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010053> a ns1:Station ;
-    rdfs:label "Blankenfelde railway station" ;
+    rdfs:label "Station:Blankenfelde railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800539> ;
     ns1:evaNumber "8010053" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Blankenfelde-Mahlow> ;
@@ -15979,7 +15979,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8010060> a ns1:Station ;
-    rdfs:label "Brandenburg Central Station" ;
+    rdfs:label "Station:Brandenburg Central Station" ;
     owl:sameAs <https://wikidata.org/entity/Q4956662> ;
     ns1:evaNumber "8010060" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Brandenburg%20an%20der%20Havel> ;
@@ -15989,7 +15989,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8011044> a ns1:Station ;
-    rdfs:label "Anklam railway station" ;
+    rdfs:label "Station:Anklam railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q4766078> ;
     ns1:evaNumber "8011044" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Anklam> ;
@@ -15999,7 +15999,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8011051> a ns1:Station ;
-    rdfs:label "Apolda railway station" ;
+    rdfs:label "Station:Apolda railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800394> ;
     ns1:evaNumber "8011051" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Thuringia/Apolda> ;
@@ -16009,7 +16009,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8011102> a ns1:Station ;
-    rdfs:label "Berlin-Gesundbrunnen station" ;
+    rdfs:label "Station:Berlin-Gesundbrunnen station" ;
     owl:sameAs <https://wikidata.org/entity/Q678286> ;
     ns1:evaNumber "8011102" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -16019,7 +16019,7 @@
     ns1:stationCategory 1 .
 
 <https://example.org/db-delays/resource/Station/8011242> a ns1:Station ;
-    rdfs:label "Borna (b Leipzig) railway station" ;
+    rdfs:label "Station:Borna (b Leipzig) railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q21288409> ;
     ns1:evaNumber "8011242" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony/Borna> ;
@@ -16029,7 +16029,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8011294> a ns1:Station ;
-    rdfs:label "Burg (b Magdeburg) railway station" ;
+    rdfs:label "Station:Burg (b Magdeburg) railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q26821706> ;
     ns1:evaNumber "8011294" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony-Anhalt/Burg> ;
@@ -16039,7 +16039,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8080100> a ns1:Station ;
-    rdfs:label "Bergfelde station" ;
+    rdfs:label "Station:Bergfelde station" ;
     owl:sameAs <https://wikidata.org/entity/Q4891640> ;
     ns1:evaNumber "8080100" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Hohen%20Neuendorf> ;
@@ -16087,7 +16087,7 @@
     owl:sameAs <https://wikidata.org/entity/Q1201> .
 
 <https://example.org/db-delays/resource/Station/8000001> a ns1:Station ;
-    rdfs:label "Aachen Central Station" ;
+    rdfs:label "Station:Aachen Central Station" ;
     owl:sameAs <https://wikidata.org/entity/Q300706> ;
     ns1:evaNumber "8000001" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Aachen> ;
@@ -16097,7 +16097,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8000014> a ns1:Station ;
-    rdfs:label "Aulendorf station" ;
+    rdfs:label "Station:Aulendorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q165899> ;
     ns1:evaNumber "8000014" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Aulendorf> ;
@@ -16107,7 +16107,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000015> a ns1:Station ;
-    rdfs:label "Babenhausen railway station" ;
+    rdfs:label "Station:Babenhausen railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800419> ;
     ns1:evaNumber "8000015" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Babenhausen> ;
@@ -16117,7 +16117,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000028> a ns1:Station ;
-    rdfs:label "Bayreuth Central Station" ;
+    rdfs:label "Station:Bayreuth Central Station" ;
     owl:sameAs <https://wikidata.org/entity/Q2642035> ;
     ns1:evaNumber "8000028" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Bayreuth> ;
@@ -16127,7 +16127,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000034> a ns1:Station ;
-    rdfs:label "Betzdorf (Sieg) station" ;
+    rdfs:label "Station:Betzdorf (Sieg) station" ;
     owl:sameAs <https://wikidata.org/entity/Q2636112> ;
     ns1:evaNumber "8000034" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Betzdorf> ;
@@ -16137,7 +16137,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000049> a ns1:Station ;
-    rdfs:label "Braunschweig Central Station" ;
+    rdfs:label "Station:Braunschweig Central Station" ;
     owl:sameAs <https://wikidata.org/entity/Q318930> ;
     ns1:evaNumber "8000049" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Brunswick> ;
@@ -16147,7 +16147,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8000051> a ns1:Station ;
-    rdfs:label "Bremerhaven Hauptbahnhof" ;
+    rdfs:label "Station:Bremerhaven Hauptbahnhof" ;
     owl:sameAs <https://wikidata.org/entity/Q535612> ;
     ns1:evaNumber "8000051" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremerhaven> ;
@@ -16157,7 +16157,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000057> a ns1:Station ;
-    rdfs:label "Buchloe station" ;
+    rdfs:label "Station:Buchloe station" ;
     owl:sameAs <https://wikidata.org/entity/Q800586> ;
     ns1:evaNumber "8000057" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Buchloe> ;
@@ -16167,7 +16167,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000058> a ns1:Station ;
-    rdfs:label "Büchen railway station" ;
+    rdfs:label "Station:Büchen railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800600> ;
     ns1:evaNumber "8000058" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/B%C3%BCchen> ;
@@ -16177,7 +16177,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000331> a ns1:Station ;
-    rdfs:label "Andernach station" ;
+    rdfs:label "Station:Andernach station" ;
     owl:sameAs <https://wikidata.org/entity/Q322789> ;
     ns1:evaNumber "8000331" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Andernach> ;
@@ -16187,7 +16187,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000354> a ns1:Station ;
-    rdfs:label "Bassum station" ;
+    rdfs:label "Station:Bassum station" ;
     owl:sameAs <https://wikidata.org/entity/Q4868200> ;
     ns1:evaNumber "8000354" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Bassum> ;
@@ -16197,7 +16197,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000358> a ns1:Station ;
-    rdfs:label "Bochum-Langendreer station" ;
+    rdfs:label "Station:Bochum-Langendreer station" ;
     owl:sameAs <https://wikidata.org/entity/Q314952> ;
     ns1:evaNumber "8000358" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bochum> ;
@@ -16207,7 +16207,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000441> a ns1:Station ;
-    rdfs:label "Ahlen (Westfalen) station" ;
+    rdfs:label "Station:Ahlen (Westfalen) station" ;
     owl:sameAs <https://wikidata.org/entity/Q325551> ;
     ns1:evaNumber "8000441" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Ahlen> ;
@@ -16217,7 +16217,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000545> a ns1:Station ;
-    rdfs:label "Althegnenberg station" ;
+    rdfs:label "Station:Althegnenberg station" ;
     owl:sameAs <https://wikidata.org/entity/Q55603742> ;
     ns1:evaNumber "8000545" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Althegnenberg> ;
@@ -16227,7 +16227,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000566> a ns1:Station ;
-    rdfs:label "Amberg" ;
+    rdfs:label "Station:Amberg" ;
     owl:sameAs <https://wikidata.org/entity/Q50807428> ;
     ns1:evaNumber "8000566" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Amberg> ;
@@ -16237,7 +16237,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000584> a ns1:Station ;
-    rdfs:label "Anrath railway station" ;
+    rdfs:label "Station:Anrath railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q15106343> ;
     ns1:evaNumber "8000584" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Willich> ;
@@ -16247,7 +16247,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000595> a ns1:Station ;
-    rdfs:label "Nottuln-Appelhülsen station" ;
+    rdfs:label "Station:Nottuln-Appelhülsen station" ;
     owl:sameAs <https://wikidata.org/entity/Q15107241> ;
     ns1:evaNumber "8000595" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Appelh%C3%BClsen> ;
@@ -16257,7 +16257,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000627> a ns1:Station ;
-    rdfs:label "Ashausen station" ;
+    rdfs:label "Station:Ashausen station" ;
     owl:sameAs <https://wikidata.org/entity/Q21514393> ;
     ns1:evaNumber "8000627" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Stelle> ;
@@ -16267,7 +16267,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000630> a ns1:Station ;
-    rdfs:label "Asperg station" ;
+    rdfs:label "Station:Asperg station" ;
     owl:sameAs <https://wikidata.org/entity/Q46550> ;
     ns1:evaNumber "8000630" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Asperg> ;
@@ -16277,7 +16277,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000634> a ns1:Station ;
-    rdfs:label "Aßling (Oberbay) station" ;
+    rdfs:label "Station:Aßling (Oberbay) station" ;
     owl:sameAs <https://wikidata.org/entity/Q63111434> ;
     ns1:evaNumber "8000634" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/A%C3%9Fling> ;
@@ -16287,7 +16287,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000662> a ns1:Station ;
-    rdfs:label "Augsburg-Oberhausen" ;
+    rdfs:label "Station:Augsburg-Oberhausen" ;
     owl:sameAs <https://wikidata.org/entity/Q800413> ;
     ns1:evaNumber "8000662" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Augsburg> ;
@@ -16297,7 +16297,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000725> a ns1:Station ;
-    rdfs:label "Bad Münder (Deister) station" ;
+    rdfs:label "Station:Bad Münder (Deister) station" ;
     owl:sameAs <https://wikidata.org/entity/Q23981220> ;
     ns1:evaNumber "8000725" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Bad%20M%C3%BCnder%20am%20Deister> ;
@@ -16307,7 +16307,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000732> a ns1:Station ;
-    rdfs:label "Bad Oeynhausen station" ;
+    rdfs:label "Station:Bad Oeynhausen station" ;
     owl:sameAs <https://wikidata.org/entity/Q323677> ;
     ns1:evaNumber "8000732" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bad%20Oeynhausen> ;
@@ -16317,7 +16317,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000736> a ns1:Station ;
-    rdfs:label "Bad Rappenau" ;
+    rdfs:label "Station:Bad Rappenau" ;
     owl:sameAs <https://wikidata.org/entity/Q18616519> ;
     ns1:evaNumber "8000736" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Rappenau> ;
@@ -16327,7 +16327,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000752> a ns1:Station ;
-    rdfs:label "Bad Soden (Taunus) station" ;
+    rdfs:label "Station:Bad Soden (Taunus) station" ;
     owl:sameAs <https://wikidata.org/entity/Q325499> ;
     ns1:evaNumber "8000752" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bad%20Soden%20am%20Taunus> ;
@@ -16337,7 +16337,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000773> a ns1:Station ;
-    rdfs:label "Baden (Kr Verden) railway station" ;
+    rdfs:label "Station:Baden (Kr Verden) railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q15945156> ;
     ns1:evaNumber "8000773" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Achim> ;
@@ -16347,7 +16347,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000785> a ns1:Station ;
-    rdfs:label "Baldham station" ;
+    rdfs:label "Station:Baldham station" ;
     owl:sameAs <https://wikidata.org/entity/Q85745020> ;
     ns1:evaNumber "8000785" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Vaterstetten> ;
@@ -16357,7 +16357,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000804> a ns1:Station ;
-    rdfs:label "Bargteheide station" ;
+    rdfs:label "Station:Bargteheide station" ;
     owl:sameAs <https://wikidata.org/entity/Q58400270> ;
     ns1:evaNumber "8000804" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Bargteheide> ;
@@ -16367,7 +16367,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000872> a ns1:Station ;
-    rdfs:label "Bennigsen station" ;
+    rdfs:label "Station:Bennigsen station" ;
     owl:sameAs <https://wikidata.org/entity/Q23978715> ;
     ns1:evaNumber "8000872" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Springe> ;
@@ -16377,7 +16377,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000873> a ns1:Station ;
-    rdfs:label "Bahnhof Benningen am Neckar" ;
+    rdfs:label "Station:Bahnhof Benningen am Neckar" ;
     owl:sameAs <https://wikidata.org/entity/Q112335437> ;
     ns1:evaNumber "8000873" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Benningen%20am%20Neckar> ;
@@ -16387,7 +16387,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000899> a ns1:Station ;
-    rdfs:label "Bergisch Gladbach station" ;
+    rdfs:label "Station:Bergisch Gladbach station" ;
     owl:sameAs <https://wikidata.org/entity/Q322307> ;
     ns1:evaNumber "8000899" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bergisch%20Gladbach> ;
@@ -16397,7 +16397,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000935> a ns1:Station ;
-    rdfs:label "Bad Bevensen station" ;
+    rdfs:label "Station:Bad Bevensen station" ;
     owl:sameAs <https://wikidata.org/entity/Q22917116> ;
     ns1:evaNumber "8000935" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Bad%20Bevensen> ;
@@ -16407,7 +16407,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000942> a ns1:Station ;
-    rdfs:label "Biberach (Baden) station" ;
+    rdfs:label "Station:Biberach (Baden) station" ;
     owl:sameAs <https://wikidata.org/entity/Q27478874> ;
     ns1:evaNumber "8000942" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Biberach> ;
@@ -16417,7 +16417,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000951> a ns1:Station ;
-    rdfs:label "Biebesheim" ;
+    rdfs:label "Station:Biebesheim" ;
     owl:sameAs <https://wikidata.org/entity/Q116018908> ;
     ns1:evaNumber "8000951" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Biebesheim%20am%20Rhein> ;
@@ -16427,7 +16427,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000955> a ns1:Station ;
-    rdfs:label "Bienenbüttel station" ;
+    rdfs:label "Station:Bienenbüttel station" ;
     owl:sameAs <https://wikidata.org/entity/Q22917038> ;
     ns1:evaNumber "8000955" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Bienenb%C3%BCttel> ;
@@ -16437,7 +16437,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000962> a ns1:Station ;
-    rdfs:label "Biessenhofen station" ;
+    rdfs:label "Station:Biessenhofen station" ;
     owl:sameAs <https://wikidata.org/entity/Q800528> ;
     ns1:evaNumber "8000962" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Biessenhofen> ;
@@ -16447,7 +16447,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000963> a ns1:Station ;
-    rdfs:label "Bietigheim (Baden)" ;
+    rdfs:label "Station:Bietigheim (Baden)" ;
     owl:sameAs <https://wikidata.org/entity/Q116155655> ;
     ns1:evaNumber "8000963" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bietigheim> ;
@@ -16457,7 +16457,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000996> a ns1:Station ;
-    rdfs:label "Maintal West" ;
+    rdfs:label "Station:Maintal West" ;
     owl:sameAs <https://wikidata.org/entity/Q65953232> ;
     ns1:evaNumber "8000996" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Maintal> ;
@@ -16467,7 +16467,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001009> a ns1:Station ;
-    rdfs:label "Blankenloch railway station" ;
+    rdfs:label "Station:Blankenloch railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q116019208> ;
     ns1:evaNumber "8001009" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Stutensee> ;
@@ -16477,7 +16477,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001033> a ns1:Station ;
-    rdfs:label "Bobingen station" ;
+    rdfs:label "Station:Bobingen station" ;
     owl:sameAs <https://wikidata.org/entity/Q17122383> ;
     ns1:evaNumber "8001033" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Bobingen> ;
@@ -16487,7 +16487,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001038> a ns1:Station ;
-    rdfs:label "Bochum-Dahlhausen station" ;
+    rdfs:label "Station:Bochum-Dahlhausen station" ;
     owl:sameAs <https://wikidata.org/entity/Q174783> ;
     ns1:evaNumber "8001038" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bochum> ;
@@ -16497,7 +16497,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001065> a ns1:Station ;
-    rdfs:label "Bösensell" ;
+    rdfs:label "Station:Bösensell" ;
     owl:sameAs <https://wikidata.org/entity/Q116019504> ;
     ns1:evaNumber "8001065" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/B%C3%B6sensell> ;
@@ -16507,7 +16507,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001112> a ns1:Station ;
-    rdfs:label "Brachbach" ;
+    rdfs:label "Station:Brachbach" ;
     owl:sameAs <https://wikidata.org/entity/Q116019546> ;
     ns1:evaNumber "8001112" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Mudersbach> ;
@@ -16517,7 +16517,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001135> a ns1:Station ;
-    rdfs:label "Brebach" ;
+    rdfs:label "Station:Brebach" ;
     owl:sameAs <https://wikidata.org/entity/Q19817142> ;
     ns1:evaNumber "8001135" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saarland/Saarbr%C3%BCcken> ;
@@ -16527,7 +16527,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001155> a ns1:Station ;
-    rdfs:label "Bremen-Neustadt railway station" ;
+    rdfs:label "Station:Bremen-Neustadt railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q9179190> ;
     ns1:evaNumber "8001155" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -16537,7 +16537,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001162> a ns1:Station ;
-    rdfs:label "Bremen-Oslebshausen station" ;
+    rdfs:label "Station:Bremen-Oslebshausen station" ;
     owl:sameAs <https://wikidata.org/entity/Q4960520> ;
     ns1:evaNumber "8001162" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -16547,7 +16547,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001164> a ns1:Station ;
-    rdfs:label "Bremen-Sebaldsbrück" ;
+    rdfs:label "Station:Bremen-Sebaldsbrück" ;
     owl:sameAs <https://wikidata.org/entity/Q11688797> ;
     ns1:evaNumber "8001164" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -16557,7 +16557,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001167> a ns1:Station ;
-    rdfs:label "Bremen-Walle station" ;
+    rdfs:label "Station:Bremen-Walle station" ;
     owl:sameAs <https://wikidata.org/entity/Q4960526> ;
     ns1:evaNumber "8001167" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -16567,7 +16567,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001186> a ns1:Station ;
-    rdfs:label "Brohl station" ;
+    rdfs:label "Station:Brohl station" ;
     owl:sameAs <https://wikidata.org/entity/Q64518436> ;
     ns1:evaNumber "8001186" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Brohl> ;
@@ -16577,7 +16577,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001237> a ns1:Station ;
-    rdfs:label "Budenheim station" ;
+    rdfs:label "Station:Budenheim station" ;
     owl:sameAs <https://wikidata.org/entity/Q116024915> ;
     ns1:evaNumber "8001237" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Budenheim> ;
@@ -16587,7 +16587,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001242> a ns1:Station ;
-    rdfs:label "Büchenbach" ;
+    rdfs:label "Station:Büchenbach" ;
     owl:sameAs <https://wikidata.org/entity/Q107024609> ;
     ns1:evaNumber "8001242" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/B%C3%BCchenbach> ;
@@ -16597,7 +16597,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001245> a ns1:Station ;
-    rdfs:label "Bückeburg station" ;
+    rdfs:label "Station:Bückeburg station" ;
     owl:sameAs <https://wikidata.org/entity/Q319921> ;
     ns1:evaNumber "8001245" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/B%C3%BCckeburg> ;
@@ -16607,7 +16607,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001252> a ns1:Station ;
-    rdfs:label "Bühl (Baden)" ;
+    rdfs:label "Station:Bühl (Baden)" ;
     owl:sameAs <https://wikidata.org/entity/Q116024916> ;
     ns1:evaNumber "8001252" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/B%C3%BChl> ;
@@ -16617,7 +16617,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001264> a ns1:Station ;
-    rdfs:label "Buir station" ;
+    rdfs:label "Station:Buir station" ;
     owl:sameAs <https://wikidata.org/entity/Q2691604> ;
     ns1:evaNumber "8001264" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Kerpen> ;
@@ -16627,7 +16627,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001266> a ns1:Station ;
-    rdfs:label "Buldern" ;
+    rdfs:label "Station:Buldern" ;
     owl:sameAs <https://wikidata.org/entity/Q116024917> ;
     ns1:evaNumber "8001266" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/D%C3%BClmen> ;
@@ -16637,7 +16637,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001276> a ns1:Station ;
-    rdfs:label "Burgau (Schwab)" ;
+    rdfs:label "Station:Burgau (Schwab)" ;
     owl:sameAs <https://wikidata.org/entity/Q106944788> ;
     ns1:evaNumber "8001276" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Burgau> ;
@@ -16647,7 +16647,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8005979> a ns1:Station ;
-    rdfs:label "Böbingen (Rems) station" ;
+    rdfs:label "Station:Böbingen (Rems) station" ;
     owl:sameAs <https://wikidata.org/entity/Q113129611> ;
     ns1:evaNumber "8005979" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/B%C3%B6bingen%20an%20der%20Rems> ;
@@ -16657,7 +16657,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010007> a ns1:Station ;
-    rdfs:label "Arnstadt central station" ;
+    rdfs:label "Station:Arnstadt central station" ;
     owl:sameAs <https://wikidata.org/entity/Q320554> ;
     ns1:evaNumber "8010007" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Thuringia/Arnstadt> ;
@@ -16667,7 +16667,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8010059> a ns1:Station ;
-    rdfs:label "Borsdorf (Sachs) railway station" ;
+    rdfs:label "Station:Borsdorf (Sachs) railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q63226495> ;
     ns1:evaNumber "8010059" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony/Borsdorf> ;
@@ -16677,7 +16677,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8011077> a ns1:Station ;
-    rdfs:label "Bad Lausick railway station" ;
+    rdfs:label "Station:Bad Lausick railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q30047032> ;
     ns1:evaNumber "8011077" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony/Bad%20Lausick> ;
@@ -16687,7 +16687,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8011222> a ns1:Station ;
-    rdfs:label "Böhlen Werke railway stop" ;
+    rdfs:label "Station:Böhlen Werke railway stop" ;
     owl:sameAs <https://wikidata.org/entity/Q108674189> ;
     ns1:evaNumber "8011222" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony/B%C3%B6hlen> ;
@@ -16697,7 +16697,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8013470> a ns1:Station ;
-    rdfs:label "Bernau railway station" ;
+    rdfs:label "Station:Bernau railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q479789> ;
     ns1:evaNumber "8013470" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Bernau%20bei%20Berlin> ;
@@ -16725,7 +16725,7 @@
     owl:sameAs <https://wikidata.org/entity/Q1205> .
 
 <https://example.org/db-delays/resource/Station/8000031> a ns1:Station ;
-    rdfs:label "Bensheim station" ;
+    rdfs:label "Station:Bensheim station" ;
     owl:sameAs <https://wikidata.org/entity/Q321004> ;
     ns1:evaNumber "8000031" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bensheim> ;
@@ -16735,7 +16735,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000048> a ns1:Station ;
-    rdfs:label "Brackwede station" ;
+    rdfs:label "Station:Brackwede station" ;
     owl:sameAs <https://wikidata.org/entity/Q800559> ;
     ns1:evaNumber "8000048" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bielefeld> ;
@@ -16745,7 +16745,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000056> a ns1:Station ;
-    rdfs:label "Buchholz (Nordheide) railway station" ;
+    rdfs:label "Station:Buchholz (Nordheide) railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q15944982> ;
     ns1:evaNumber "8000056" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Buchholz%20in%20der%20Nordheide> ;
@@ -16755,7 +16755,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000443> a ns1:Station ;
-    rdfs:label "Ahlten station" ;
+    rdfs:label "Station:Ahlten station" ;
     owl:sameAs <https://wikidata.org/entity/Q4695202> ;
     ns1:evaNumber "8000443" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Lehrte> ;
@@ -16765,7 +16765,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000446> a ns1:Station ;
-    rdfs:label "Ahrensburg railway station" ;
+    rdfs:label "Station:Ahrensburg railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q108673314> ;
     ns1:evaNumber "8000446" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Ahrensburg> ;
@@ -16775,7 +16775,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000578> a ns1:Station ;
-    rdfs:label "Hannover-Anderten-Misburg railway station" ;
+    rdfs:label "Station:Hannover-Anderten-Misburg railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q437740> ;
     ns1:evaNumber "8000578" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Lower%20Saxony/Anderten> ;
@@ -16785,7 +16785,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000657> a ns1:Station ;
-    rdfs:label "Auggen railway stop" ;
+    rdfs:label "Station:Auggen railway stop" ;
     owl:sameAs <https://wikidata.org/entity/Q2106629> ;
     ns1:evaNumber "8000657" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Auggen> ;
@@ -16795,7 +16795,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000677> a ns1:Station ;
-    rdfs:label "Hückelhoven-Baal station" ;
+    rdfs:label "Station:Hückelhoven-Baal station" ;
     owl:sameAs <https://wikidata.org/entity/Q201611> ;
     ns1:evaNumber "8000677" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Baal> ;
@@ -16805,7 +16805,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000713> a ns1:Station ;
-    rdfs:label "Bad Honnef (Rhein) station" ;
+    rdfs:label "Station:Bad Honnef (Rhein) station" ;
     owl:sameAs <https://wikidata.org/entity/Q14541306> ;
     ns1:evaNumber "8000713" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bad%20Honnef> ;
@@ -16815,7 +16815,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000718> a ns1:Station ;
-    rdfs:label "Bad Krozingen railway station" ;
+    rdfs:label "Station:Bad Krozingen railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q15107130> ;
     ns1:evaNumber "8000718" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Krozingen> ;
@@ -16825,7 +16825,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000746> a ns1:Station ;
-    rdfs:label "Bad Schussenried station" ;
+    rdfs:label "Station:Bad Schussenried station" ;
     owl:sameAs <https://wikidata.org/entity/Q53623573> ;
     ns1:evaNumber "8000746" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Schussenried> ;
@@ -16835,7 +16835,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000760> a ns1:Station ;
-    rdfs:label "Bad Vilbel station" ;
+    rdfs:label "Station:Bad Vilbel station" ;
     owl:sameAs <https://wikidata.org/entity/Q800439> ;
     ns1:evaNumber "8000760" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bad%20Vilbel> ;
@@ -16845,7 +16845,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000761> a ns1:Station ;
-    rdfs:label "Bad Vilbel Süd station" ;
+    rdfs:label "Station:Bad Vilbel Süd station" ;
     owl:sameAs <https://wikidata.org/entity/Q55604670> ;
     ns1:evaNumber "8000761" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bad%20Vilbel> ;
@@ -16855,7 +16855,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000774> a ns1:Station ;
-    rdfs:label "Baden-Baden" ;
+    rdfs:label "Station:Baden-Baden" ;
     owl:sameAs <https://wikidata.org/entity/Q442698> ;
     ns1:evaNumber "8000774" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Baden-Baden> ;
@@ -16865,7 +16865,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000877> a ns1:Station ;
-    rdfs:label "Bensheim-Auerbach station" ;
+    rdfs:label "Station:Bensheim-Auerbach station" ;
     owl:sameAs <https://wikidata.org/entity/Q800462> ;
     ns1:evaNumber "8000877" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bensheim> ;
@@ -16875,7 +16875,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000941> a ns1:Station ;
-    rdfs:label "Bexbach station" ;
+    rdfs:label "Station:Bexbach station" ;
     owl:sameAs <https://wikidata.org/entity/Q800518> ;
     ns1:evaNumber "8000941" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saarland/Bexbach> ;
@@ -16885,7 +16885,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000943> a ns1:Station ;
-    rdfs:label "Bahnhof Biberach" ;
+    rdfs:label "Station:Bahnhof Biberach" ;
     owl:sameAs <https://wikidata.org/entity/Q9170701> ;
     ns1:evaNumber "8000943" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Biberach%20an%20der%20Ri%C3%9F> ;
@@ -16895,7 +16895,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000948> a ns1:Station ;
-    rdfs:label "Bickenbach (Bergstr) station" ;
+    rdfs:label "Station:Bickenbach (Bergstr) station" ;
     owl:sameAs <https://wikidata.org/entity/Q800524> ;
     ns1:evaNumber "8000948" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bickenbach> ;
@@ -16905,7 +16905,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001039> a ns1:Station ;
-    rdfs:label "Bochum-Ehrenfeld station" ;
+    rdfs:label "Station:Bochum-Ehrenfeld station" ;
     owl:sameAs <https://wikidata.org/entity/Q1900984> ;
     ns1:evaNumber "8001039" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bochum> ;
@@ -16915,7 +16915,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001083> a ns1:Station ;
-    rdfs:label "Bonn-Beuel station" ;
+    rdfs:label "Station:Bonn-Beuel station" ;
     owl:sameAs <https://wikidata.org/entity/Q800550> ;
     ns1:evaNumber "8001083" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bonn> ;
@@ -16925,7 +16925,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001085> a ns1:Station ;
-    rdfs:label "Bonn-Mehlem station" ;
+    rdfs:label "Station:Bonn-Mehlem station" ;
     owl:sameAs <https://wikidata.org/entity/Q800551> ;
     ns1:evaNumber "8001085" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bonn> ;
@@ -16935,7 +16935,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001086> a ns1:Station ;
-    rdfs:label "Bonn-Oberkassel station" ;
+    rdfs:label "Station:Bonn-Oberkassel station" ;
     owl:sameAs <https://wikidata.org/entity/Q800555> ;
     ns1:evaNumber "8001086" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bonn> ;
@@ -16945,7 +16945,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001092> a ns1:Station ;
-    rdfs:label "Bordesholm station" ;
+    rdfs:label "Station:Bordesholm station" ;
     owl:sameAs <https://wikidata.org/entity/Q800554> ;
     ns1:evaNumber "8001092" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Bordesholm> ;
@@ -16955,7 +16955,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001159> a ns1:Station ;
-    rdfs:label "Bremen-Lesum station" ;
+    rdfs:label "Station:Bremen-Lesum station" ;
     owl:sameAs <https://wikidata.org/entity/Q4960517> ;
     ns1:evaNumber "8001159" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -16965,7 +16965,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001163> a ns1:Station ;
-    rdfs:label "Bremen-Schönebeck station" ;
+    rdfs:label "Station:Bremen-Schönebeck station" ;
     owl:sameAs <https://wikidata.org/entity/Q4960522> ;
     ns1:evaNumber "8001163" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -16975,7 +16975,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001165> a ns1:Station ;
-    rdfs:label "Bremen-St. Magnus station" ;
+    rdfs:label "Station:Bremen-St. Magnus station" ;
     owl:sameAs <https://wikidata.org/entity/Q4960523> ;
     ns1:evaNumber "8001165" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -16985,7 +16985,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001166> a ns1:Station ;
-    rdfs:label "Bremen-Vegesack station" ;
+    rdfs:label "Station:Bremen-Vegesack station" ;
     owl:sameAs <https://wikidata.org/entity/Q110915426> ;
     ns1:evaNumber "8001166" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -16995,7 +16995,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001196> a ns1:Station ;
-    rdfs:label "Bruchenbrücken station" ;
+    rdfs:label "Station:Bruchenbrücken station" ;
     owl:sameAs <https://wikidata.org/entity/Q81707720> ;
     ns1:evaNumber "8001196" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Friedberg> ;
@@ -17005,7 +17005,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001215> a ns1:Station ;
-    rdfs:label "Brühl station" ;
+    rdfs:label "Station:Brühl station" ;
     owl:sameAs <https://wikidata.org/entity/Q800584> ;
     ns1:evaNumber "8001215" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Br%C3%BChl> ;
@@ -17015,7 +17015,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001267> a ns1:Station ;
-    rdfs:label "Bullay" ;
+    rdfs:label "Station:Bullay" ;
     owl:sameAs <https://wikidata.org/entity/Q9181953> ;
     ns1:evaNumber "8001267" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Rhineland-Palatinate/Bullay> ;
@@ -17025,7 +17025,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8010018> a ns1:Station ;
-    rdfs:label "Bad Kleinen railway station" ;
+    rdfs:label "Station:Bad Kleinen railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q324562> ;
     ns1:evaNumber "8010018" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bad%20Kleinen> ;
@@ -17035,7 +17035,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8010019> a ns1:Station ;
-    rdfs:label "Bad Kösen railway station" ;
+    rdfs:label "Station:Bad Kösen railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q56544015> ;
     ns1:evaNumber "8010019" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony-Anhalt/Bad%20K%C3%B6sen> ;
@@ -17045,7 +17045,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010035> a ns1:Station ;
-    rdfs:label "Berlin-Karlshorst station" ;
+    rdfs:label "Station:Berlin-Karlshorst station" ;
     owl:sameAs <https://wikidata.org/entity/Q464170> ;
     ns1:evaNumber "8010035" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17055,7 +17055,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8010403> a ns1:Station ;
-    rdfs:label "Berlin-Charlottenburg railway station" ;
+    rdfs:label "Station:Berlin-Charlottenburg railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q702596> ;
     ns1:evaNumber "8010403" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17065,7 +17065,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8010404> a ns1:Station ;
-    rdfs:label "Berlin-Spandau railway station" ;
+    rdfs:label "Station:Berlin-Spandau railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q654980> ;
     ns1:evaNumber "8010404" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17075,7 +17075,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8080040> a ns1:Station ;
-    rdfs:label "Berlin Albrechtshof railway station" ;
+    rdfs:label "Station:Berlin Albrechtshof railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800470> ;
     ns1:evaNumber "8080040" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17085,7 +17085,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8089088> a ns1:Station ;
-    rdfs:label "Berlin-Spindlersfeld station" ;
+    rdfs:label "Station:Berlin-Spindlersfeld station" ;
     owl:sameAs <https://wikidata.org/entity/Q4892371> ;
     ns1:evaNumber "8089088" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17104,7 +17104,7 @@
     owl:sameAs <https://wikidata.org/entity/Q1206> .
 
 <https://example.org/db-delays/resource/Station/8000011> a ns1:Station ;
-    rdfs:label "Ascheberg (Holst) station" ;
+    rdfs:label "Station:Ascheberg (Holst) station" ;
     owl:sameAs <https://wikidata.org/entity/Q85743260> ;
     ns1:evaNumber "8000011" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Ascheberg> ;
@@ -17114,7 +17114,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000013> a ns1:Station ;
-    rdfs:label "Augsburg Central Station" ;
+    rdfs:label "Station:Augsburg Central Station" ;
     owl:sameAs <https://wikidata.org/entity/Q682505> ;
     ns1:evaNumber "8000013" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Augsburg> ;
@@ -17124,7 +17124,7 @@
     ns1:stationCategory 1 .
 
 <https://example.org/db-delays/resource/Station/8000025> a ns1:Station ;
-    rdfs:label "Bamberg railway station" ;
+    rdfs:label "Station:Bamberg railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800444> ;
     ns1:evaNumber "8000025" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Bamberg> ;
@@ -17134,7 +17134,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8000050> a ns1:Station ;
-    rdfs:label "Bremen Hauptbahnhof" ;
+    rdfs:label "Station:Bremen Hauptbahnhof" ;
     owl:sameAs <https://wikidata.org/entity/Q631094> ;
     ns1:evaNumber "8000050" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -17144,7 +17144,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8000503> a ns1:Station ;
-    rdfs:label "Biblis station" ;
+    rdfs:label "Station:Biblis station" ;
     owl:sameAs <https://wikidata.org/entity/Q800526> ;
     ns1:evaNumber "8000503" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Biblis> ;
@@ -17154,7 +17154,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000508> a ns1:Station ;
-    rdfs:label "Altbach" ;
+    rdfs:label "Station:Altbach" ;
     owl:sameAs <https://wikidata.org/entity/Q18681700> ;
     ns1:evaNumber "8000508" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Altbach> ;
@@ -17164,7 +17164,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000712> a ns1:Station ;
-    rdfs:label "Bad Homburg station" ;
+    rdfs:label "Station:Bad Homburg station" ;
     owl:sameAs <https://wikidata.org/entity/Q322665> ;
     ns1:evaNumber "8000712" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Bad%20Homburg%20vor%20der%20H%C3%B6he> ;
@@ -17174,7 +17174,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000832> a ns1:Station ;
-    rdfs:label "Leverkusen Chempark station" ;
+    rdfs:label "Station:Leverkusen Chempark station" ;
     owl:sameAs <https://wikidata.org/entity/Q2797536> ;
     ns1:evaNumber "8000832" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Cologne> ;
@@ -17184,7 +17184,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000934> a ns1:Station ;
-    rdfs:label "Beutelsbach station" ;
+    rdfs:label "Station:Beutelsbach station" ;
     owl:sameAs <https://wikidata.org/entity/Q112284204> ;
     ns1:evaNumber "8000934" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Weinstadt> ;
@@ -17194,7 +17194,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001082> a ns1:Station ;
-    rdfs:label "Bonn-Bad Godesberg station" ;
+    rdfs:label "Station:Bonn-Bad Godesberg station" ;
     owl:sameAs <https://wikidata.org/entity/Q316928> ;
     ns1:evaNumber "8001082" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bonn> ;
@@ -17204,7 +17204,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8001229> a ns1:Station ;
-    rdfs:label "Buchenau (Oberbay) station" ;
+    rdfs:label "Station:Buchenau (Oberbay) station" ;
     owl:sameAs <https://wikidata.org/entity/Q75280386> ;
     ns1:evaNumber "8001229" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/F%C3%BCrstenfeldbruck> ;
@@ -17214,7 +17214,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010006> a ns1:Station ;
-    rdfs:label "Arnsdorf (bei Dresden) railway station" ;
+    rdfs:label "Station:Arnsdorf (bei Dresden) railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q4795408> ;
     ns1:evaNumber "8010006" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony/Arnsdorf> ;
@@ -17224,7 +17224,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010049> a ns1:Station ;
-    rdfs:label "Bischofswerda railway station" ;
+    rdfs:label "Station:Bischofswerda railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q4917244> ;
     ns1:evaNumber "8010049" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Saxony/Bischofswerda> ;
@@ -17234,7 +17234,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010405> a ns1:Station ;
-    rdfs:label "Berlin-Wannsee railway station" ;
+    rdfs:label "Station:Berlin-Wannsee railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q567336> ;
     ns1:evaNumber "8010405" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17244,7 +17244,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8011306> a ns1:Station ;
-    rdfs:label "Berlin-Friedrichstraße railway station" ;
+    rdfs:label "Station:Berlin-Friedrichstraße railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q702402> ;
     ns1:evaNumber "8011306" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17254,7 +17254,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8070002> a ns1:Station ;
-    rdfs:label "Birkenstein station" ;
+    rdfs:label "Station:Birkenstein station" ;
     owl:sameAs <https://wikidata.org/entity/Q4916462> ;
     ns1:evaNumber "8070002" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Hoppegarten> ;
@@ -17274,7 +17274,7 @@
     ns1:inState <https://example.org/db-delays/resource/State/North%20Rhine-Westphalia> .
 
 <https://example.org/db-delays/resource/Station/8000017> a ns1:Station ;
-    rdfs:label "Bad Friedrichshall Central Station" ;
+    rdfs:label "Station:Bad Friedrichshall Central Station" ;
     owl:sameAs <https://wikidata.org/entity/Q329460> ;
     ns1:evaNumber "8000017" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Friedrichshall> ;
@@ -17284,7 +17284,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000053> a ns1:Station ;
-    rdfs:label "Bretten" ;
+    rdfs:label "Station:Bretten" ;
     owl:sameAs <https://wikidata.org/entity/Q800566> ;
     ns1:evaNumber "8000053" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bretten> ;
@@ -17294,7 +17294,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000055> a ns1:Station ;
-    rdfs:label "Bruchsal" ;
+    rdfs:label "Station:Bruchsal" ;
     owl:sameAs <https://wikidata.org/entity/Q318279> ;
     ns1:evaNumber "8000055" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bruchsal> ;
@@ -17304,7 +17304,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8000404> a ns1:Station ;
-    rdfs:label "Aachen West station" ;
+    rdfs:label "Station:Aachen West station" ;
     owl:sameAs <https://wikidata.org/entity/Q320563> ;
     ns1:evaNumber "8000404" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Aachen> ;
@@ -17314,7 +17314,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8000658> a ns1:Station ;
-    rdfs:label "Augsburg Haunstetter Straße station" ;
+    rdfs:label "Station:Augsburg Haunstetter Straße station" ;
     owl:sameAs <https://wikidata.org/entity/Q800410> ;
     ns1:evaNumber "8000658" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Augsburg> ;
@@ -17324,7 +17324,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000661> a ns1:Station ;
-    rdfs:label "Augsburg-Hochzoll" ;
+    rdfs:label "Station:Augsburg-Hochzoll" ;
     owl:sameAs <https://wikidata.org/entity/Q800409> ;
     ns1:evaNumber "8000661" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bavaria/Augsburg> ;
@@ -17334,7 +17334,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8000971> a ns1:Station ;
-    rdfs:label "Billwerder-Moorfleet station" ;
+    rdfs:label "Station:Billwerder-Moorfleet station" ;
     owl:sameAs <https://wikidata.org/entity/Q18619176> ;
     ns1:evaNumber "8000971" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hamburg/Hamburg> ;
@@ -17344,7 +17344,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8001156> a ns1:Station ;
-    rdfs:label "Bremen-Burg station" ;
+    rdfs:label "Station:Bremen-Burg station" ;
     owl:sameAs <https://wikidata.org/entity/Q4960518> ;
     ns1:evaNumber "8001156" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Bremen/Bremen> ;
@@ -17354,7 +17354,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8001236> a ns1:Station ;
-    rdfs:label "Dreieich-Buchschlag station" ;
+    rdfs:label "Station:Dreieich-Buchschlag station" ;
     owl:sameAs <https://wikidata.org/entity/Q800684> ;
     ns1:evaNumber "8001236" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hesse/Dreieich> ;
@@ -17364,7 +17364,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8010406> a ns1:Station ;
-    rdfs:label "Berlin Zoologischer Garten railway station" ;
+    rdfs:label "Station:Berlin Zoologischer Garten railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q681785> ;
     ns1:evaNumber "8010406" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17374,7 +17374,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8011155> a ns1:Station ;
-    rdfs:label "Berlin Alexanderplatz station" ;
+    rdfs:label "Station:Berlin Alexanderplatz station" ;
     owl:sameAs <https://wikidata.org/entity/Q698497> ;
     ns1:evaNumber "8011155" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17384,7 +17384,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8080200> a ns1:Station ;
-    rdfs:label "Borgsdorf station" ;
+    rdfs:label "Station:Borgsdorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q4093486> ;
     ns1:evaNumber "8080200" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Borgsdorf> ;
@@ -17394,7 +17394,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8089010> a ns1:Station ;
-    rdfs:label "Buckower Chaussee station" ;
+    rdfs:label "Station:Buckower Chaussee station" ;
     owl:sameAs <https://wikidata.org/entity/Q800499> ;
     ns1:evaNumber "8089010" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17404,7 +17404,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8089074> a ns1:Station ;
-    rdfs:label "Marienfelde station" ;
+    rdfs:label "Station:Marienfelde station" ;
     owl:sameAs <https://wikidata.org/entity/Q800485> ;
     ns1:evaNumber "8089074" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17419,7 +17419,7 @@
     ns1:inState <https://example.org/db-delays/resource/State/Hamburg> .
 
 <https://example.org/db-delays/resource/Station/8000044> a ns1:Station ;
-    rdfs:label "Bonn Hauptbahnhof" ;
+    rdfs:label "Station:Bonn Hauptbahnhof" ;
     owl:sameAs <https://wikidata.org/entity/Q55423> ;
     ns1:evaNumber "8000044" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bonn> ;
@@ -17429,7 +17429,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8000749> a ns1:Station ;
-    rdfs:label "Bad Schwartau station" ;
+    rdfs:label "Station:Bad Schwartau station" ;
     owl:sameAs <https://wikidata.org/entity/Q109375609> ;
     ns1:evaNumber "8000749" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad%20Schwartau> ;
@@ -17439,7 +17439,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010255> a ns1:Station ;
-    rdfs:label "Berlin Ostbahnhof railway station" ;
+    rdfs:label "Station:Berlin Ostbahnhof railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q683239> ;
     ns1:evaNumber "8010255" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17449,7 +17449,7 @@
     ns1:stationCategory 1 .
 
 <https://example.org/db-delays/resource/Station/8080070> a ns1:Station ;
-    rdfs:label "Potsdam-Babelsberg station" ;
+    rdfs:label "Station:Potsdam-Babelsberg station" ;
     owl:sameAs <https://wikidata.org/entity/Q801326> ;
     ns1:evaNumber "8080070" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Potsdam> ;
@@ -17459,7 +17459,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8080190> a ns1:Station ;
-    rdfs:label "Birkenwerder (b Berlin) railway station" ;
+    rdfs:label "Station:Birkenwerder (b Berlin) railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q2343634> ;
     ns1:evaNumber "8080190" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Birkenwerder> ;
@@ -17469,7 +17469,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089003> a ns1:Station ;
-    rdfs:label "Attilastraße station" ;
+    rdfs:label "Station:Attilastraße station" ;
     owl:sameAs <https://wikidata.org/entity/Q800497> ;
     ns1:evaNumber "8089003" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17479,7 +17479,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089009> a ns1:Station ;
-    rdfs:label "Berlin Botanischer Garten station" ;
+    rdfs:label "Station:Berlin Botanischer Garten station" ;
     owl:sameAs <https://wikidata.org/entity/Q800498> ;
     ns1:evaNumber "8089009" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17489,7 +17489,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089055> a ns1:Station ;
-    rdfs:label "Berlin-Biesdorf station" ;
+    rdfs:label "Station:Berlin-Biesdorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q4892357> ;
     ns1:evaNumber "8089055" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17499,7 +17499,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089057> a ns1:Station ;
-    rdfs:label "Berlin-Buch station" ;
+    rdfs:label "Station:Berlin-Buch station" ;
     owl:sameAs <https://wikidata.org/entity/Q4892359> ;
     ns1:evaNumber "8089057" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17509,7 +17509,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089061> a ns1:Station ;
-    rdfs:label "Berlin-Frohnau station" ;
+    rdfs:label "Station:Berlin-Frohnau station" ;
     owl:sameAs <https://wikidata.org/entity/Q800472> ;
     ns1:evaNumber "8089061" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17519,7 +17519,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089064> a ns1:Station ;
-    rdfs:label "Berlin-Hermsdorf station" ;
+    rdfs:label "Station:Berlin-Hermsdorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q263189> ;
     ns1:evaNumber "8089064" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17529,7 +17529,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089068> a ns1:Station ;
-    rdfs:label "Berlin-Kaulsdorf railway station" ;
+    rdfs:label "Station:Berlin-Kaulsdorf railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800478> ;
     ns1:evaNumber "8089068" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17539,7 +17539,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089071> a ns1:Station ;
-    rdfs:label "Berlin-Lichterfelde West station" ;
+    rdfs:label "Station:Berlin-Lichterfelde West station" ;
     owl:sameAs <https://wikidata.org/entity/Q800483> ;
     ns1:evaNumber "8089071" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17549,7 +17549,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089075> a ns1:Station ;
-    rdfs:label "Berlin-Marzahn station" ;
+    rdfs:label "Station:Berlin-Marzahn station" ;
     owl:sameAs <https://wikidata.org/entity/Q800486> ;
     ns1:evaNumber "8089075" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17559,7 +17559,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089085> a ns1:Station ;
-    rdfs:label "Berlin-Schlachtensee station" ;
+    rdfs:label "Station:Berlin-Schlachtensee station" ;
     owl:sameAs <https://wikidata.org/entity/Q800509> ;
     ns1:evaNumber "8089085" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17569,7 +17569,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089095> a ns1:Station ;
-    rdfs:label "Berlin-Wilhelmsruh station" ;
+    rdfs:label "Station:Berlin-Wilhelmsruh station" ;
     owl:sameAs <https://wikidata.org/entity/Q800495> ;
     ns1:evaNumber "8089095" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17579,7 +17579,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089098> a ns1:Station ;
-    rdfs:label "Berlin-Zehlendorf station" ;
+    rdfs:label "Station:Berlin-Zehlendorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q737962> ;
     ns1:evaNumber "8089098" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17589,7 +17589,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000023> a ns1:Station ;
-    rdfs:label "Bad Oldesloe station" ;
+    rdfs:label "Station:Bad Oldesloe station" ;
     owl:sameAs <https://wikidata.org/entity/Q20023048> ;
     ns1:evaNumber "8000023" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad%20Oldesloe> ;
@@ -17599,7 +17599,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8000038> a ns1:Station ;
-    rdfs:label "Bietigheim-Bissingen station" ;
+    rdfs:label "Station:Bietigheim-Bissingen station" ;
     owl:sameAs <https://wikidata.org/entity/Q440067> ;
     ns1:evaNumber "8000038" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bietigheim-Bissingen> ;
@@ -17609,7 +17609,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8001007> a ns1:Station ;
-    rdfs:label "Blankenese station" ;
+    rdfs:label "Station:Blankenese station" ;
     owl:sameAs <https://wikidata.org/entity/Q800871> ;
     ns1:evaNumber "8001007" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hamburg/Hamburg> ;
@@ -17619,7 +17619,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8001055> a ns1:Station ;
-    rdfs:label "Böblingen station" ;
+    rdfs:label "Station:Böblingen station" ;
     owl:sameAs <https://wikidata.org/entity/Q440075> ;
     ns1:evaNumber "8001055" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/B%C3%B6blingen> ;
@@ -17629,7 +17629,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8011046> a ns1:Station ;
-    rdfs:label "Berlin-Karow railway station" ;
+    rdfs:label "Station:Berlin-Karow railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q800480> ;
     ns1:evaNumber "8011046" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17639,7 +17639,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089006> a ns1:Station ;
-    rdfs:label "Betriebsbahnhof Rummelsburg station" ;
+    rdfs:label "Station:Betriebsbahnhof Rummelsburg station" ;
     owl:sameAs <https://wikidata.org/entity/Q829009> ;
     ns1:evaNumber "8089006" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17653,7 +17653,7 @@
     owl:sameAs <https://wikidata.org/entity/Q1202> .
 
 <https://example.org/db-delays/resource/Station/8000512> a ns1:Station ;
-    rdfs:label "Alte Wöhr station" ;
+    rdfs:label "Station:Alte Wöhr station" ;
     owl:sameAs <https://wikidata.org/entity/Q19460179> ;
     ns1:evaNumber "8000512" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hamburg/Hamburg> ;
@@ -17663,7 +17663,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000780> a ns1:Station ;
-    rdfs:label "Bahrenfeld station" ;
+    rdfs:label "Station:Bahrenfeld station" ;
     owl:sameAs <https://wikidata.org/entity/Q4842883> ;
     ns1:evaNumber "8000780" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hamburg/Hamburg> ;
@@ -17673,7 +17673,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000805> a ns1:Station ;
-    rdfs:label "Barmbek station" ;
+    rdfs:label "Station:Barmbek station" ;
     owl:sameAs <https://wikidata.org/entity/Q800870> ;
     ns1:evaNumber "8000805" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hamburg/Hamburg> ;
@@ -17683,7 +17683,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089060> a ns1:Station ;
-    rdfs:label "Berlin-Friedrichshagen station" ;
+    rdfs:label "Station:Berlin-Friedrichshagen station" ;
     owl:sameAs <https://wikidata.org/entity/Q800474> ;
     ns1:evaNumber "8089060" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17693,7 +17693,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089062> a ns1:Station ;
-    rdfs:label "Berlin-Grunewald station" ;
+    rdfs:label "Station:Berlin-Grunewald station" ;
     owl:sameAs <https://wikidata.org/entity/Q457266> ;
     ns1:evaNumber "8089062" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17703,7 +17703,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089084> a ns1:Station ;
-    rdfs:label "Berlin-Rummelsburg railway station" ;
+    rdfs:label "Station:Berlin-Rummelsburg railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q15107132> ;
     ns1:evaNumber "8089084" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17721,7 +17721,7 @@
     owl:sameAs <https://wikidata.org/entity/Q1194> .
 
 <https://example.org/db-delays/resource/Station/8000041> a ns1:Station ;
-    rdfs:label "Bochum Hbf" ;
+    rdfs:label "Station:Bochum Hbf" ;
     owl:sameAs <https://wikidata.org/entity/Q453861> ;
     ns1:evaNumber "8000041" ;
     ns1:inCity <https://example.org/db-delays/resource/City/North%20Rhine-Westphalia/Bochum> ;
@@ -17731,7 +17731,7 @@
     ns1:stationCategory 2 .
 
 <https://example.org/db-delays/resource/Station/8089054> a ns1:Station ;
-    rdfs:label "Altglienicke station" ;
+    rdfs:label "Station:Altglienicke station" ;
     owl:sameAs <https://wikidata.org/entity/Q4736651> ;
     ns1:evaNumber "8089054" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17741,7 +17741,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089056> a ns1:Station ;
-    rdfs:label "Berlin-Blankenburg station" ;
+    rdfs:label "Station:Berlin-Blankenburg station" ;
     owl:sameAs <https://wikidata.org/entity/Q800469> ;
     ns1:evaNumber "8089056" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17751,7 +17751,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089063> a ns1:Station ;
-    rdfs:label "Berlin-Grünau station" ;
+    rdfs:label "Station:Berlin-Grünau station" ;
     owl:sameAs <https://wikidata.org/entity/Q324777> ;
     ns1:evaNumber "8089063" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17766,7 +17766,7 @@
     ns1:inState <https://example.org/db-delays/resource/State/Bremen> .
 
 <https://example.org/db-delays/resource/Station/8089080> a ns1:Station ;
-    rdfs:label "Berlin-Pankow-Heinersdorf station" ;
+    rdfs:label "Station:Berlin-Pankow-Heinersdorf station" ;
     owl:sameAs <https://wikidata.org/entity/Q4892366> ;
     ns1:evaNumber "8089080" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17776,7 +17776,7 @@
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8089087> a ns1:Station ;
-    rdfs:label "Berlin-Schönholz station" ;
+    rdfs:label "Station:Berlin-Schönholz station" ;
     owl:sameAs <https://wikidata.org/entity/Q800490> ;
     ns1:evaNumber "8089087" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17786,7 +17786,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8000908> a ns1:Station ;
-    rdfs:label "Berliner Tor station" ;
+    rdfs:label "Station:Berliner Tor station" ;
     owl:sameAs <https://wikidata.org/entity/Q827138> ;
     ns1:evaNumber "8000908" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Hamburg/Hamburg> ;
@@ -17804,7 +17804,7 @@
     owl:sameAs <https://wikidata.org/entity/Q1200> .
 
 <https://example.org/db-delays/resource/Station/8089002> a ns1:Station ;
-    rdfs:label "Berlin Anhalter Bahnhof" ;
+    rdfs:label "Station:Berlin Anhalter Bahnhof" ;
     owl:sameAs <https://wikidata.org/entity/Q695244> ;
     ns1:evaNumber "8089002" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17814,7 +17814,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8089011> a ns1:Station ;
-    rdfs:label "Berlin Greifswalder Straße station" ;
+    rdfs:label "Station:Berlin Greifswalder Straße station" ;
     owl:sameAs <https://wikidata.org/entity/Q439246> ;
     ns1:evaNumber "8089011" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17824,7 +17824,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089013> a ns1:Station ;
-    rdfs:label "Berlin Frankfurter Allee station" ;
+    rdfs:label "Station:Berlin Frankfurter Allee station" ;
     owl:sameAs <https://wikidata.org/entity/Q552872> ;
     ns1:evaNumber "8089013" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17834,7 +17834,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8089024> a ns1:Station ;
-    rdfs:label "Berlin Nordbahnhof" ;
+    rdfs:label "Station:Berlin Nordbahnhof" ;
     owl:sameAs <https://wikidata.org/entity/Q673721> ;
     ns1:evaNumber "8089024" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17844,7 +17844,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089107> a ns1:Station ;
-    rdfs:label "Bundesplatz metro station" ;
+    rdfs:label "Station:Bundesplatz metro station" ;
     owl:sameAs <https://wikidata.org/entity/Q3647008> ;
     ns1:evaNumber "8089107" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17854,7 +17854,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089109> a ns1:Station ;
-    rdfs:label "Berlin-Halensee station" ;
+    rdfs:label "Station:Berlin-Halensee station" ;
     owl:sameAs <https://wikidata.org/entity/Q800476> ;
     ns1:evaNumber "8089109" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17868,7 +17868,7 @@
     owl:sameAs <https://wikidata.org/entity/Q1197> .
 
 <https://example.org/db-delays/resource/Station/8089077> a ns1:Station ;
-    rdfs:label "Berlin-Neukölln station" ;
+    rdfs:label "Station:Berlin-Neukölln station" ;
     owl:sameAs <https://wikidata.org/entity/Q569905> ;
     ns1:evaNumber "8089077" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17882,7 +17882,7 @@
     owl:sameAs <https://wikidata.org/entity/Q1198> .
 
 <https://example.org/db-delays/resource/Station/8089007> a ns1:Station ;
-    rdfs:label "Berlin-Johannisthal railway station" ;
+    rdfs:label "Station:Berlin-Johannisthal railway station" ;
     owl:sameAs <https://wikidata.org/entity/Q4526101> ;
     ns1:evaNumber "8089007" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17892,7 +17892,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089090> a ns1:Station ;
-    rdfs:label "Berlin-Tempelhof station" ;
+    rdfs:label "Station:Berlin-Tempelhof station" ;
     owl:sameAs <https://wikidata.org/entity/Q571405> ;
     ns1:evaNumber "8089090" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17902,7 +17902,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089004> a ns1:Station ;
-    rdfs:label "Berlin-Baumschulenweg station" ;
+    rdfs:label "Station:Berlin-Baumschulenweg station" ;
     owl:sameAs <https://wikidata.org/entity/Q324336> ;
     ns1:evaNumber "8089004" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17912,7 +17912,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089052> a ns1:Station ;
-    rdfs:label "Berlin-Adlershof station" ;
+    rdfs:label "Station:Berlin-Adlershof station" ;
     owl:sameAs <https://wikidata.org/entity/Q323551> ;
     ns1:evaNumber "8089052" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17926,7 +17926,7 @@
     owl:sameAs <https://wikidata.org/entity/Q980> .
 
 <https://example.org/db-delays/resource/Station/8089005> a ns1:Station ;
-    rdfs:label "Berlin Bellevue station" ;
+    rdfs:label "Station:Berlin Bellevue station" ;
     owl:sameAs <https://wikidata.org/entity/Q374018> ;
     ns1:evaNumber "8089005" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17936,7 +17936,7 @@
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8089008> a ns1:Station ;
-    rdfs:label "Berlin Bornholmer Straße station" ;
+    rdfs:label "Station:Berlin Bornholmer Straße station" ;
     owl:sameAs <https://wikidata.org/entity/Q32662318> ;
     ns1:evaNumber "8089008" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;
@@ -17946,7 +17946,7 @@
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8089474> a ns1:Station ;
-    rdfs:label "Berlin-Schöneberg station" ;
+    rdfs:label "Station:Berlin-Schöneberg station" ;
     owl:sameAs <https://wikidata.org/entity/Q543855> ;
     ns1:evaNumber "8089474" ;
     ns1:inCity <https://example.org/db-delays/resource/City/Berlin/Berlin> ;

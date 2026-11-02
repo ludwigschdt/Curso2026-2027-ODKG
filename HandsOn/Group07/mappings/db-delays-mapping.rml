@@ -232,11 +232,13 @@ rr:predicateObjectMap [
 
 # ontology: rdfs:label, csv: station
     rr:predicateObjectMap [
-        rr:predicateMap [rr:constant rdfs:label;
-            rr:termType rr:IRI];
-        rr:objectMap [rml:reference "station";
-            rr:termType rr:Literal;
-            rr:datatype xsd:string
+        rr:predicateMap [
+            rr:constant rdfs:label ;
+            rr:termType rr:IRI
+        ] ;
+        rr:objectMap [
+            rr:template "Station:{station}" ;
+            rr:termType rr:Literal
         ]
     ];
 

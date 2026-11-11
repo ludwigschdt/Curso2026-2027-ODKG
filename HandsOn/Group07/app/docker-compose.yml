@@ -1,0 +1,16 @@
+name: db-delays
+
+services:
+  graphdb:
+    image: ontotext/graphdb:10.8.14
+    container_name: db-delays-graphdb
+    ports:
+      - "7200:7200"
+    environment:
+      # Allow the browser frontend (served from another port) to query the SPARQL endpoint
+      GDB_JAVA_OPTS: "-Dgraphdb.workbench.cors.enable=true"
+    volumes:
+      - graphdb-data:/opt/graphdb/home
+
+volumes:
+  graphdb-data:

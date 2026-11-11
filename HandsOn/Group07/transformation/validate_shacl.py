@@ -271,7 +271,7 @@ def main():
     original_triples = set(data)
     shapes = Graph().parse(args.shapes, format="turtle")
     sh = Namespace("http://www.w3.org/ns/shacl#")
-    dbd = Namespace("https://example.org/db-delays/ontologyj")
+    dbd = Namespace("https://example.org/db-delays/ontology#")
 
     def check(graph, destination):
         conforms, report, _ = validate(

@@ -32,3 +32,10 @@ The application uses GraphDB to host the knowledge graph. GraphDB runs in Docker
    - Start the import with the default settings.
 
 The SPARQL endpoint used by the app is http://localhost:7200/repositories/db-delays.
+
+4. Start the frontend:
+   ```bash
+   cd app/web
+   python -m http.server 8000
+   ```
+   Then open http://localhost:8000 (opening `index.html` directly as a file does not work).

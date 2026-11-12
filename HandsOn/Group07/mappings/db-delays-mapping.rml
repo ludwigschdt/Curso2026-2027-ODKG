@@ -12,10 +12,10 @@
 # state class
 
 <#StateMap> a rr:TriplesMap ;
-    rml:logicalSource [ rml:source "../csv/DBtrainrides.csv";
+    rml:logicalSource [ rml:source "../csv/DBtrainrides-cleaned.csv";
                        rml:referenceFormulation ql:CSV ] ;
     rr:subjectMap [
-        rr:template "https://example.org/db-delays/resource/State/{state}" ;
+        rr:template "https://example.org/db-delays/resource/State/{state_slug}" ;
         rr:class dbd:State ;
         rr:termType rr:IRI;
     ];
@@ -33,12 +33,12 @@
 
 <#CityMap> a rr:TriplesMap ;
 rml:logicalSource [
-    rml:source "../csv/DBtrainrides.csv";
+    rml:source "../csv/DBtrainrides-cleaned.csv";
     rml:referenceFormulation ql:CSV;
   ];
 
 rr:subjectMap [
-    rr:template "https://example.org/db-delays/resource/City/{state}/{city}";
+    rr:template "https://example.org/db-delays/resource/City/{state_slug}/{city_slug}";
     rr:class dbd:City;
 ];
 
@@ -62,7 +62,7 @@ rr:predicateObjectMap [
 # trainstop class
 <#TrainStopMap> a rr:TriplesMap ;
 rml:logicalSource [
-    rml:source "../csv/DBtrainrides.csv";
+    rml:source "../csv/DBtrainrides-cleaned.csv";
     rml:referenceFormulation ql:CSV;
   ];
 
@@ -204,7 +204,7 @@ rr:predicateObjectMap [
 # station class
 <#StationMap> a rr:TriplesMap;
     rml:logicalSource [
-        rml:source "../csv/DBtrainrides.csv";
+        rml:source "../csv/DBtrainrides-cleaned.csv";
         rml:referenceFormulation ql:CSV
     ];
     rr:subjectMap [

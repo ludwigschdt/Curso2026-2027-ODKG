@@ -14554,121 +14554,117 @@
     ns1:previousStations "Hamburg-Altona(S)|Hamburg Holstenstraße|Hamburg-Sternschanze|Hamburg Dammtor|Hamburg Hbf (S-Bahn)|Hamburg Berliner Tor|Hamburg-Rothenburgsort|Hamburg-Tiefstack" ;
     ns1:stopId "9183839067170826159-2407080012-9" .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Aalen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Aalen> a ns1:City ;
     rdfs:label "Aalen" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Allensbach> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Allensbach> a ns1:City ;
     rdfs:label "Allensbach" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Altbach> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Altbach> a ns1:City ;
     rdfs:label "Altbach" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Asperg> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Asperg> a ns1:City ;
     rdfs:label "Asperg" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Auggen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Auggen> a ns1:City ;
     rdfs:label "Auggen" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Aulendorf> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Aulendorf> a ns1:City ;
     rdfs:label "Aulendorf" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/B%C3%B6bingen%20%28Rems%29> a ns1:City ;
-    rdfs:label "Böbingen (Rems)" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
-
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/B%C3%B6blingen> a ns1:City ;
-    rdfs:label "Böblingen" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
-
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/B%C3%BChl> a ns1:City ;
-    rdfs:label "Bühl" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
-
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Friedrichshall> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Friedrichshall> a ns1:City ;
     rdfs:label "Bad Friedrichshall" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Krozingen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Krozingen> a ns1:City ;
     rdfs:label "Bad Krozingen" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Rappenau> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Rappenau> a ns1:City ;
     rdfs:label "Bad Rappenau" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20S%C3%A4ckingen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Saeckingen> a ns1:City ;
     rdfs:label "Bad Säckingen" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Sch%C3%B6nborn> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Schoenborn> a ns1:City ;
     rdfs:label "Bad Schönborn" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Schussenried> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Schussenried> a ns1:City ;
     rdfs:label "Bad Schussenried" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Baden-Baden> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Baden-Baden> a ns1:City ;
     rdfs:label "Baden-Baden" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Benningen%20am%20Neckar> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Benningen-am-Neckar> a ns1:City ;
     rdfs:label "Benningen am Neckar" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Besigheim> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Besigheim> a ns1:City ;
     rdfs:label "Besigheim" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Biberach> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Biberach> a ns1:City ;
     rdfs:label "Biberach" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Biberach%20%28Ri%C3%9F%29> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Biberach-Riss> a ns1:City ;
     rdfs:label "Biberach (Riß)" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bietigheim> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bietigheim> a ns1:City ;
     rdfs:label "Bietigheim" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bietigheim-Bissingen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bietigheim-Bissingen> a ns1:City ;
     rdfs:label "Bietigheim-Bissingen" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bondorf> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Boebingen-Rems> a ns1:City ;
+    rdfs:label "Böbingen (Rems)" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
+
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Boeblingen> a ns1:City ;
+    rdfs:label "Böblingen" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
+
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bondorf> a ns1:City ;
     rdfs:label "Bondorf" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Breisach> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Breisach> a ns1:City ;
     rdfs:label "Breisach" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bretten> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bretten> a ns1:City ;
     rdfs:label "Bretten" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bruchsal> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bruchsal> a ns1:City ;
     rdfs:label "Bruchsal" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Stutensee> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Buehl> a ns1:City ;
+    rdfs:label "Bühl" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
+
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Stutensee> a ns1:City ;
     rdfs:label "Stutensee" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
-<https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Weinstadt> a ns1:City ;
+<https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Weinstadt> a ns1:City ;
     rdfs:label "Weinstadt" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> .
-
-<https://example.org/db-delays/resource/City/Bayern/A%C3%9Fling> a ns1:City ;
-    rdfs:label "Aßling" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
+    ns1:inState <https://example.org/db-delays/resource/State/Baden-Wuerttemberg> .
 
 <https://example.org/db-delays/resource/City/Bayern/Aichach> a ns1:City ;
     rdfs:label "Aichach" ;
@@ -14694,15 +14690,15 @@
     rdfs:label "Aschaffenburg" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
-<https://example.org/db-delays/resource/City/Bayern/B%C3%BCchenbach> a ns1:City ;
-    rdfs:label "Büchenbach" ;
+<https://example.org/db-delays/resource/City/Bayern/Assling> a ns1:City ;
+    rdfs:label "Aßling" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
-<https://example.org/db-delays/resource/City/Bayern/Bad%20Aibling> a ns1:City ;
+<https://example.org/db-delays/resource/City/Bayern/Bad-Aibling> a ns1:City ;
     rdfs:label "Bad Aibling" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
-<https://example.org/db-delays/resource/City/Bayern/Bad%20Endorf> a ns1:City ;
+<https://example.org/db-delays/resource/City/Bayern/Bad-Endorf> a ns1:City ;
     rdfs:label "Bad Endorf" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
@@ -14722,7 +14718,7 @@
     rdfs:label "Beratzhausen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
-<https://example.org/db-delays/resource/City/Bayern/Bernau%20a.%20Chiemsee> a ns1:City ;
+<https://example.org/db-delays/resource/City/Bayern/Bernau-a.-Chiemsee> a ns1:City ;
     rdfs:label "Bernau a. Chiemsee" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
@@ -14738,7 +14734,7 @@
     rdfs:label "Brannenburg" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
-<https://example.org/db-delays/resource/City/Bayern/Breiteng%C3%BC%C3%9Fbach> a ns1:City ;
+<https://example.org/db-delays/resource/City/Bayern/Breitenguessbach> a ns1:City ;
     rdfs:label "Breitengüßbach" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
@@ -14746,11 +14742,15 @@
     rdfs:label "Buchloe" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
+<https://example.org/db-delays/resource/City/Bayern/Buechenbach> a ns1:City ;
+    rdfs:label "Büchenbach" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
+
 <https://example.org/db-delays/resource/City/Bayern/Burgau> a ns1:City ;
     rdfs:label "Burgau" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
-<https://example.org/db-delays/resource/City/Bayern/F%C3%BCrstenfeldbruck> a ns1:City ;
+<https://example.org/db-delays/resource/City/Bayern/Fuerstenfeldbruck> a ns1:City ;
     rdfs:label "Fürstenfeldbruck" ;
     ns1:inState <https://example.org/db-delays/resource/State/Bayern> .
 
@@ -14762,7 +14762,7 @@
     rdfs:label "Belzig" ;
     ns1:inState <https://example.org/db-delays/resource/State/Brandenburg> .
 
-<https://example.org/db-delays/resource/City/Brandenburg/Bernau%20bei%20Berlin> a ns1:City ;
+<https://example.org/db-delays/resource/City/Brandenburg/Bernau-bei-Berlin> a ns1:City ;
     rdfs:label "Bernau bei Berlin" ;
     ns1:inState <https://example.org/db-delays/resource/State/Brandenburg> .
 
@@ -14774,15 +14774,15 @@
     rdfs:label "Blankenfelde" ;
     ns1:inState <https://example.org/db-delays/resource/State/Brandenburg> .
 
-<https://example.org/db-delays/resource/City/Brandenburg/Brandenburg%20an%20der%20Havel> a ns1:City ;
+<https://example.org/db-delays/resource/City/Brandenburg/Brandenburg-an-der-Havel> a ns1:City ;
     rdfs:label "Brandenburg an der Havel" ;
     ns1:inState <https://example.org/db-delays/resource/State/Brandenburg> .
 
-<https://example.org/db-delays/resource/City/Brandenburg/Hohen%20Neuendorf> a ns1:City ;
+<https://example.org/db-delays/resource/City/Brandenburg/Hohen-Neuendorf> a ns1:City ;
     rdfs:label "Hohen Neuendorf" ;
     ns1:inState <https://example.org/db-delays/resource/State/Brandenburg> .
 
-<https://example.org/db-delays/resource/City/Brandenburg/Hohen%20Neuendorf%20OTBorgsdo> a ns1:City ;
+<https://example.org/db-delays/resource/City/Brandenburg/Hohen-Neuendorf-OTBorgsdo> a ns1:City ;
     rdfs:label "Hohen Neuendorf OTBorgsdo" ;
     ns1:inState <https://example.org/db-delays/resource/State/Brandenburg> .
 
@@ -14802,19 +14802,19 @@
     rdfs:label "Babenhausen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
-<https://example.org/db-delays/resource/City/Hessen/Bad%20Camberg> a ns1:City ;
+<https://example.org/db-delays/resource/City/Hessen/Bad-Camberg> a ns1:City ;
     rdfs:label "Bad Camberg" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
-<https://example.org/db-delays/resource/City/Hessen/Bad%20Hersfeld> a ns1:City ;
+<https://example.org/db-delays/resource/City/Hessen/Bad-Hersfeld> a ns1:City ;
     rdfs:label "Bad Hersfeld" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
-<https://example.org/db-delays/resource/City/Hessen/Bad%20Homburg> a ns1:City ;
+<https://example.org/db-delays/resource/City/Hessen/Bad-Homburg> a ns1:City ;
     rdfs:label "Bad Homburg" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
-<https://example.org/db-delays/resource/City/Hessen/Bad%20Soden%20%28Taunus%29> a ns1:City ;
+<https://example.org/db-delays/resource/City/Hessen/Bad-Soden-Taunus> a ns1:City ;
     rdfs:label "Bad Soden (Taunus)" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
@@ -14834,7 +14834,7 @@
     rdfs:label "Biebesheim" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
-<https://example.org/db-delays/resource/City/Hessen/Borken%20%28Hessen%29> a ns1:City ;
+<https://example.org/db-delays/resource/City/Hessen/Borken-Hessen> a ns1:City ;
     rdfs:label "Borken (Hessen)" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
@@ -14842,7 +14842,7 @@
     rdfs:label "Dreieich" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
-<https://example.org/db-delays/resource/City/Hessen/Friedberg%20%28Hess.%29> a ns1:City ;
+<https://example.org/db-delays/resource/City/Hessen/Friedberg-Hess.> a ns1:City ;
     rdfs:label "Friedberg (Hess.)" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
@@ -14854,11 +14854,11 @@
     rdfs:label "Anklam" ;
     ns1:inState <https://example.org/db-delays/resource/State/Mecklenburg-Vorpommern> .
 
-<https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bad%20Kleinen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bad-Kleinen> a ns1:City ;
     rdfs:label "Bad Kleinen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Mecklenburg-Vorpommern> .
 
-<https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bergen%20%28R%C3%BCgen%29> a ns1:City ;
+<https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bergen-Ruegen> a ns1:City ;
     rdfs:label "Bergen (Rügen)" ;
     ns1:inState <https://example.org/db-delays/resource/State/Mecklenburg-Vorpommern> .
 
@@ -14866,23 +14866,19 @@
     rdfs:label "Alfeld" ;
     ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
 
-<https://example.org/db-delays/resource/City/Niedersachsen/B%C3%BCckeburg> a ns1:City ;
-    rdfs:label "Bückeburg" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
-
-<https://example.org/db-delays/resource/City/Niedersachsen/Bad%20Bevensen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Niedersachsen/Bad-Bevensen> a ns1:City ;
     rdfs:label "Bad Bevensen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
 
-<https://example.org/db-delays/resource/City/Niedersachsen/Bad%20M%C3%BCnder%20am%20Deister> a ns1:City ;
+<https://example.org/db-delays/resource/City/Niedersachsen/Bad-Muender-am-Deister> a ns1:City ;
     rdfs:label "Bad Münder am Deister" ;
     ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
 
-<https://example.org/db-delays/resource/City/Niedersachsen/Bad%20Nenndorf> a ns1:City ;
+<https://example.org/db-delays/resource/City/Niedersachsen/Bad-Nenndorf> a ns1:City ;
     rdfs:label "Bad Nenndorf" ;
     ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
 
-<https://example.org/db-delays/resource/City/Niedersachsen/Bad%20Pyrmont> a ns1:City ;
+<https://example.org/db-delays/resource/City/Niedersachsen/Bad-Pyrmont> a ns1:City ;
     rdfs:label "Bad Pyrmont" ;
     ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
 
@@ -14894,7 +14890,7 @@
     rdfs:label "Bassum" ;
     ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
 
-<https://example.org/db-delays/resource/City/Niedersachsen/Bienenb%C3%BCttel> a ns1:City ;
+<https://example.org/db-delays/resource/City/Niedersachsen/Bienenbuettel> a ns1:City ;
     rdfs:label "Bienenbüttel" ;
     ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
 
@@ -14906,8 +14902,12 @@
     rdfs:label "Braunschweig" ;
     ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
 
-<https://example.org/db-delays/resource/City/Niedersachsen/Buchholz%20i.d.Nordheide> a ns1:City ;
+<https://example.org/db-delays/resource/City/Niedersachsen/Buchholz-i.d.Nordheide> a ns1:City ;
     rdfs:label "Buchholz i.d.Nordheide" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
+
+<https://example.org/db-delays/resource/City/Niedersachsen/Bueckeburg> a ns1:City ;
+    rdfs:label "Bückeburg" ;
     ns1:inState <https://example.org/db-delays/resource/State/Niedersachsen> .
 
 <https://example.org/db-delays/resource/City/Niedersachsen/Burgdorf> a ns1:City ;
@@ -14946,19 +14946,15 @@
     rdfs:label "Arnsberg" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/B%C3%BCnde> a ns1:City ;
-    rdfs:label "Bünde" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
-
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bad%20Honnef> a ns1:City ;
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bad-Honnef> a ns1:City ;
     rdfs:label "Bad Honnef" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bad%20Oeynhausen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bad-Oeynhausen> a ns1:City ;
     rdfs:label "Bad Oeynhausen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bergisch%20Gladbach> a ns1:City ;
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bergisch-Gladbach> a ns1:City ;
     rdfs:label "Bergisch Gladbach" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
@@ -14966,35 +14962,39 @@
     rdfs:label "Bottrop" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Br%C3%BChl> a ns1:City ;
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bruehl> a ns1:City ;
     rdfs:label "Brühl" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/D%C3%BClmen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Buende> a ns1:City ;
+    rdfs:label "Bünde" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
+
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Duelmen> a ns1:City ;
     rdfs:label "Dülmen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/H%C3%BCckelhoven-Baal> a ns1:City ;
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Hueckelhoven-Baal> a ns1:City ;
     rdfs:label "Hückelhoven-Baal" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
-
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/K%C3%B6ln> a ns1:City ;
-    rdfs:label "Köln" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
 <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Kerpen> a ns1:City ;
     rdfs:label "Kerpen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Koeln> a ns1:City ;
+    rdfs:label "Köln" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
+
 <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Lennestadt> a ns1:City ;
     rdfs:label "Lennestadt" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Nottuln-Appelh%C3%BClsen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Nottuln-Appelhuelsen> a ns1:City ;
     rdfs:label "Nottuln-Appelhülsen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
-<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Senden-B%C3%B6sensell> a ns1:City ;
+<https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Senden-Boesensell> a ns1:City ;
     rdfs:label "Senden-Bösensell" ;
     ns1:inState <https://example.org/db-delays/resource/State/Nordrhein-Westfalen> .
 
@@ -15014,15 +15014,11 @@
     rdfs:label "Armsheim" ;
     ns1:inState <https://example.org/db-delays/resource/State/Rheinland-Pfalz> .
 
-<https://example.org/db-delays/resource/City/Rheinland-Pfalz/B%C3%B6hl-Iggelheim> a ns1:City ;
-    rdfs:label "Böhl-Iggelheim" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Rheinland-Pfalz> .
-
-<https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bad%20Breisig> a ns1:City ;
+<https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bad-Breisig> a ns1:City ;
     rdfs:label "Bad Breisig" ;
     ns1:inState <https://example.org/db-delays/resource/State/Rheinland-Pfalz> .
 
-<https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bad%20Kreuznach> a ns1:City ;
+<https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bad-Kreuznach> a ns1:City ;
     rdfs:label "Bad Kreuznach" ;
     ns1:inState <https://example.org/db-delays/resource/State/Rheinland-Pfalz> .
 
@@ -15046,11 +15042,15 @@
     rdfs:label "Bodenheim" ;
     ns1:inState <https://example.org/db-delays/resource/State/Rheinland-Pfalz> .
 
+<https://example.org/db-delays/resource/City/Rheinland-Pfalz/Boehl-Iggelheim> a ns1:City ;
+    rdfs:label "Böhl-Iggelheim" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Rheinland-Pfalz> .
+
 <https://example.org/db-delays/resource/City/Rheinland-Pfalz/Brohl> a ns1:City ;
     rdfs:label "Brohl" ;
     ns1:inState <https://example.org/db-delays/resource/State/Rheinland-Pfalz> .
 
-<https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bruchm%C3%BChlbach-Miesau> a ns1:City ;
+<https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bruchmuehlbach-Miesau> a ns1:City ;
     rdfs:label "Bruchmühlbach-Miesau" ;
     ns1:inState <https://example.org/db-delays/resource/State/Rheinland-Pfalz> .
 
@@ -15074,7 +15074,7 @@
     rdfs:label "Aschersleben" ;
     ns1:inState <https://example.org/db-delays/resource/State/Sachsen-Anhalt> .
 
-<https://example.org/db-delays/resource/City/Sachsen-Anhalt/Bad%20K%C3%B6sen> a ns1:City ;
+<https://example.org/db-delays/resource/City/Sachsen-Anhalt/Bad-Koesen> a ns1:City ;
     rdfs:label "Bad Kösen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Sachsen-Anhalt> .
 
@@ -15090,15 +15090,11 @@
     rdfs:label "Arnsdorf" ;
     ns1:inState <https://example.org/db-delays/resource/State/Sachsen> .
 
-<https://example.org/db-delays/resource/City/Sachsen/B%C3%B6hlen> a ns1:City ;
-    rdfs:label "Böhlen" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Sachsen> .
-
-<https://example.org/db-delays/resource/City/Sachsen/Bad%20Lausick> a ns1:City ;
+<https://example.org/db-delays/resource/City/Sachsen/Bad-Lausick> a ns1:City ;
     rdfs:label "Bad Lausick" ;
     ns1:inState <https://example.org/db-delays/resource/State/Sachsen> .
 
-<https://example.org/db-delays/resource/City/Sachsen/Bad%20Schandau> a ns1:City ;
+<https://example.org/db-delays/resource/City/Sachsen/Bad-Schandau> a ns1:City ;
     rdfs:label "Bad Schandau" ;
     ns1:inState <https://example.org/db-delays/resource/State/Sachsen> .
 
@@ -15108,6 +15104,10 @@
 
 <https://example.org/db-delays/resource/City/Sachsen/Bischofswerda> a ns1:City ;
     rdfs:label "Bischofswerda" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Sachsen> .
+
+<https://example.org/db-delays/resource/City/Sachsen/Boehlen> a ns1:City ;
+    rdfs:label "Böhlen" ;
     ns1:inState <https://example.org/db-delays/resource/State/Sachsen> .
 
 <https://example.org/db-delays/resource/City/Sachsen/Borna> a ns1:City ;
@@ -15122,23 +15122,19 @@
     rdfs:label "Ahrensburg" ;
     ns1:inState <https://example.org/db-delays/resource/State/Schleswig-Holstein> .
 
-<https://example.org/db-delays/resource/City/Schleswig-Holstein/Ascheberg%20%28Holstein%29> a ns1:City ;
+<https://example.org/db-delays/resource/City/Schleswig-Holstein/Ascheberg-Holstein> a ns1:City ;
     rdfs:label "Ascheberg (Holstein)" ;
     ns1:inState <https://example.org/db-delays/resource/State/Schleswig-Holstein> .
 
-<https://example.org/db-delays/resource/City/Schleswig-Holstein/Aum%C3%BChle> a ns1:City ;
+<https://example.org/db-delays/resource/City/Schleswig-Holstein/Aumuehle> a ns1:City ;
     rdfs:label "Aumühle" ;
     ns1:inState <https://example.org/db-delays/resource/State/Schleswig-Holstein> .
 
-<https://example.org/db-delays/resource/City/Schleswig-Holstein/B%C3%BCchen> a ns1:City ;
-    rdfs:label "Büchen" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Schleswig-Holstein> .
-
-<https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad%20Oldesloe> a ns1:City ;
+<https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad-Oldesloe> a ns1:City ;
     rdfs:label "Bad Oldesloe" ;
     ns1:inState <https://example.org/db-delays/resource/State/Schleswig-Holstein> .
 
-<https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad%20Schwartau> a ns1:City ;
+<https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad-Schwartau> a ns1:City ;
     rdfs:label "Bad Schwartau" ;
     ns1:inState <https://example.org/db-delays/resource/State/Schleswig-Holstein> .
 
@@ -15154,17 +15150,21 @@
     rdfs:label "Bredstedt" ;
     ns1:inState <https://example.org/db-delays/resource/State/Schleswig-Holstein> .
 
-<https://example.org/db-delays/resource/City/Th%C3%BCringen/Altenburg> a ns1:City ;
+<https://example.org/db-delays/resource/City/Schleswig-Holstein/Buechen> a ns1:City ;
+    rdfs:label "Büchen" ;
+    ns1:inState <https://example.org/db-delays/resource/State/Schleswig-Holstein> .
+
+<https://example.org/db-delays/resource/City/Thueringen/Altenburg> a ns1:City ;
     rdfs:label "Altenburg" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Th%C3%BCringen> .
+    ns1:inState <https://example.org/db-delays/resource/State/Thueringen> .
 
-<https://example.org/db-delays/resource/City/Th%C3%BCringen/Apolda> a ns1:City ;
+<https://example.org/db-delays/resource/City/Thueringen/Apolda> a ns1:City ;
     rdfs:label "Apolda" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Th%C3%BCringen> .
+    ns1:inState <https://example.org/db-delays/resource/State/Thueringen> .
 
-<https://example.org/db-delays/resource/City/Th%C3%BCringen/Arnstadt> a ns1:City ;
+<https://example.org/db-delays/resource/City/Thueringen/Arnstadt> a ns1:City ;
     rdfs:label "Arnstadt" ;
-    ns1:inState <https://example.org/db-delays/resource/State/Th%C3%BCringen> .
+    ns1:inState <https://example.org/db-delays/resource/State/Thueringen> .
 
 <https://example.org/db-delays/resource/State/Berlin> a ns1:State ;
     rdfs:label "Berlin" .
@@ -15175,7 +15175,7 @@
 <https://example.org/db-delays/resource/Station/8000002> a ns1:Station ;
     rdfs:label "Station:Aalen Hbf" ;
     ns1:evaNumber "8000002" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Aalen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Aalen> ;
     ns1:latitude 48.841013 ;
     ns1:longitude 10.096271 ;
     ns1:postalCode "73430" ;
@@ -15220,7 +15220,7 @@
 <https://example.org/db-delays/resource/Station/8000020> a ns1:Station ;
     rdfs:label "Station:Bad Hersfeld" ;
     ns1:evaNumber "8000020" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad%20Hersfeld> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad-Hersfeld> ;
     ns1:latitude 50.869632 ;
     ns1:longitude 9.716182 ;
     ns1:postalCode "36251" ;
@@ -15229,7 +15229,7 @@
 <https://example.org/db-delays/resource/Station/8000021> a ns1:Station ;
     rdfs:label "Station:Bad Kreuznach" ;
     ns1:evaNumber "8000021" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bad%20Kreuznach> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bad-Kreuznach> ;
     ns1:latitude 49.842399 ;
     ns1:longitude 7.866435 ;
     ns1:postalCode "55543" ;
@@ -15238,7 +15238,7 @@
 <https://example.org/db-delays/resource/Station/8000022> a ns1:Station ;
     rdfs:label "Station:Bad Nenndorf" ;
     ns1:evaNumber "8000022" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bad%20Nenndorf> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bad-Nenndorf> ;
     ns1:latitude 52.343735 ;
     ns1:longitude 9.378603 ;
     ns1:postalCode "31542" ;
@@ -15283,7 +15283,7 @@
 <https://example.org/db-delays/resource/Station/8000059> a ns1:Station ;
     rdfs:label "Station:Bünde (Westf)" ;
     ns1:evaNumber "8000059" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/B%C3%BCnde> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Buende> ;
     ns1:latitude 52.202075 ;
     ns1:longitude 8.573876 ;
     ns1:postalCode "32257" ;
@@ -15337,7 +15337,7 @@
 <https://example.org/db-delays/resource/Station/8000496> a ns1:Station ;
     rdfs:label "Station:Allensbach" ;
     ns1:evaNumber "8000496" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Allensbach> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Allensbach> ;
     ns1:latitude 47.714464 ;
     ns1:longitude 9.068852 ;
     ns1:postalCode "78476" ;
@@ -15382,7 +15382,7 @@
 <https://example.org/db-delays/resource/Station/8000669> a ns1:Station ;
     rdfs:label "Station:Aumühle" ;
     ns1:evaNumber "8000669" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Aum%C3%BChle> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Aumuehle> ;
     ns1:latitude 53.529853 ;
     ns1:longitude 10.314672 ;
     ns1:postalCode "21521" ;
@@ -15391,7 +15391,7 @@
 <https://example.org/db-delays/resource/Station/8000690> a ns1:Station ;
     rdfs:label "Station:Bad Aibling" ;
     ns1:evaNumber "8000690" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Bad%20Aibling> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Bad-Aibling> ;
     ns1:latitude 47.862028 ;
     ns1:longitude 12.004157 ;
     ns1:postalCode "83043" ;
@@ -15400,7 +15400,7 @@
 <https://example.org/db-delays/resource/Station/8000694> a ns1:Station ;
     rdfs:label "Station:Bad Breisig" ;
     ns1:evaNumber "8000694" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bad%20Breisig> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bad-Breisig> ;
     ns1:latitude 50.504218 ;
     ns1:longitude 7.304564 ;
     ns1:postalCode "53498" ;
@@ -15409,7 +15409,7 @@
 <https://example.org/db-delays/resource/Station/8000735> a ns1:Station ;
     rdfs:label "Station:Bad Pyrmont" ;
     ns1:evaNumber "8000735" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bad%20Pyrmont> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bad-Pyrmont> ;
     ns1:latitude 51.974233 ;
     ns1:longitude 9.272719 ;
     ns1:postalCode "31812" ;
@@ -15472,7 +15472,7 @@
 <https://example.org/db-delays/resource/Station/8000911> a ns1:Station ;
     rdfs:label "Station:Bernau a. Chiemsee" ;
     ns1:evaNumber "8000911" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Bernau%20a.%20Chiemsee> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Bernau-a.-Chiemsee> ;
     ns1:latitude 47.816482 ;
     ns1:longitude 12.380957 ;
     ns1:postalCode "83233" ;
@@ -15481,7 +15481,7 @@
 <https://example.org/db-delays/resource/Station/8000925> a ns1:Station ;
     rdfs:label "Station:Besigheim" ;
     ns1:evaNumber "8000925" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Besigheim> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Besigheim> ;
     ns1:latitude 48.997723 ;
     ns1:longitude 9.136645 ;
     ns1:postalCode "74354" ;
@@ -15526,7 +15526,7 @@
 <https://example.org/db-delays/resource/Station/8001057> a ns1:Station ;
     rdfs:label "Station:Böhl-Iggelheim" ;
     ns1:evaNumber "8001057" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Rheinland-Pfalz/B%C3%B6hl-Iggelheim> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Rheinland-Pfalz/Boehl-Iggelheim> ;
     ns1:latitude 49.379831 ;
     ns1:longitude 8.303602 ;
     ns1:postalCode "67459" ;
@@ -15544,7 +15544,7 @@
 <https://example.org/db-delays/resource/Station/8001080> a ns1:Station ;
     rdfs:label "Station:Bondorf (b Herrenberg)" ;
     ns1:evaNumber "8001080" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bondorf> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bondorf> ;
     ns1:latitude 48.523552 ;
     ns1:longitude 8.827662 ;
     ns1:postalCode "71149" ;
@@ -15553,7 +15553,7 @@
 <https://example.org/db-delays/resource/Station/8001098> a ns1:Station ;
     rdfs:label "Station:Borken (Hess)" ;
     ns1:evaNumber "8001098" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Borken%20%28Hessen%29> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Borken-Hessen> ;
     ns1:latitude 51.050684 ;
     ns1:longitude 9.277 ;
     ns1:postalCode "34582" ;
@@ -15589,7 +15589,7 @@
 <https://example.org/db-delays/resource/Station/8001143> a ns1:Station ;
     rdfs:label "Station:Breisach" ;
     ns1:evaNumber "8001143" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Breisach> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Breisach> ;
     ns1:latitude 48.026918 ;
     ns1:longitude 7.58935 ;
     ns1:postalCode "79206" ;
@@ -15598,7 +15598,7 @@
 <https://example.org/db-delays/resource/Station/8001149> a ns1:Station ;
     rdfs:label "Station:Breitengüßbach" ;
     ns1:evaNumber "8001149" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Breiteng%C3%BC%C3%9Fbach> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Breitenguessbach> ;
     ns1:latitude 49.96683 ;
     ns1:longitude 10.887135 ;
     ns1:postalCode "96149" ;
@@ -15616,7 +15616,7 @@
 <https://example.org/db-delays/resource/Station/8001200> a ns1:Station ;
     rdfs:label "Station:Bruchmühlbach-Miesau" ;
     ns1:evaNumber "8001200" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bruchm%C3%BChlbach-Miesau> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Rheinland-Pfalz/Bruchmuehlbach-Miesau> ;
     ns1:latitude 49.385343 ;
     ns1:longitude 7.443979 ;
     ns1:postalCode "66892" ;
@@ -15625,7 +15625,7 @@
 <https://example.org/db-delays/resource/Station/8001238> a ns1:Station ;
     rdfs:label "Station:Bübingen" ;
     ns1:evaNumber "8001238" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Saarland/Saarbr%C3%BCcken> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Saarland/Saarbruecken> ;
     ns1:latitude 49.179636 ;
     ns1:longitude 7.034846 ;
     ns1:postalCode "66129" ;
@@ -15643,7 +15643,7 @@
 <https://example.org/db-delays/resource/Station/8001322> a ns1:Station ;
     rdfs:label "Station:Bad Camberg" ;
     ns1:evaNumber "8001322" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad%20Camberg> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad-Camberg> ;
     ns1:latitude 50.296433 ;
     ns1:longitude 8.255036 ;
     ns1:postalCode "65520" ;
@@ -15652,7 +15652,7 @@
 <https://example.org/db-delays/resource/Station/8001787> a ns1:Station ;
     rdfs:label "Station:Bad Endorf (Oberbay)" ;
     ns1:evaNumber "8001787" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Bad%20Endorf> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Bad-Endorf> ;
     ns1:latitude 47.905066 ;
     ns1:longitude 12.301558 ;
     ns1:postalCode "83093" ;
@@ -15661,7 +15661,7 @@
 <https://example.org/db-delays/resource/Station/8003533> a ns1:Station ;
     rdfs:label "Station:Bad Schönborn Süd" ;
     ns1:evaNumber "8003533" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Sch%C3%B6nborn> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Schoenborn> ;
     ns1:latitude 49.200001 ;
     ns1:longitude 8.641924 ;
     ns1:postalCode "76669" ;
@@ -15679,7 +15679,7 @@
 <https://example.org/db-delays/resource/Station/8005255> a ns1:Station ;
     rdfs:label "Station:Bad Säckingen" ;
     ns1:evaNumber "8005255" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20S%C3%A4ckingen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Saeckingen> ;
     ns1:latitude 47.555857 ;
     ns1:longitude 7.94863 ;
     ns1:postalCode "79713" ;
@@ -15688,10 +15688,10 @@
 <https://example.org/db-delays/resource/Station/8010003> a ns1:Station ;
     rdfs:label "Station:Altenburg" ;
     ns1:evaNumber "8010003" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Th%C3%BCringen/Altenburg> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Thueringen/Altenburg> ;
     ns1:latitude 50.996648 ;
     ns1:longitude 12.444019 ;
-    ns1:postalCode "4600" ;
+    ns1:postalCode "04600" ;
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010009> a ns1:Station ;
@@ -15700,16 +15700,16 @@
     ns1:inCity <https://example.org/db-delays/resource/City/Sachsen-Anhalt/Aschersleben> ;
     ns1:latitude 51.757122 ;
     ns1:longitude 11.465689 ;
-    ns1:postalCode "6449" ;
+    ns1:postalCode "06449" ;
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8010022> a ns1:Station ;
     rdfs:label "Station:Bad Schandau" ;
     ns1:evaNumber "8010022" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Bad%20Schandau> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Bad-Schandau> ;
     ns1:latitude 50.9192886 ;
     ns1:longitude 14.1375375 ;
-    ns1:postalCode "1814" ;
+    ns1:postalCode "01814" ;
     ns1:stationCategory 3 .
 
 <https://example.org/db-delays/resource/Station/8010026> a ns1:Station ;
@@ -15718,7 +15718,7 @@
     ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Bautzen> ;
     ns1:latitude 51.173097 ;
     ns1:longitude 14.428735 ;
-    ns1:postalCode "2625" ;
+    ns1:postalCode "02625" ;
     ns1:stationCategory 4 .
 
 <https://example.org/db-delays/resource/Station/8010031> a ns1:Station ;
@@ -15733,7 +15733,7 @@
 <https://example.org/db-delays/resource/Station/8010033> a ns1:Station ;
     rdfs:label "Station:Bergen auf Rügen" ;
     ns1:evaNumber "8010033" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bergen%20%28R%C3%BCgen%29> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bergen-Ruegen> ;
     ns1:latitude 54.4205 ;
     ns1:longitude 13.417821 ;
     ns1:postalCode "18528" ;
@@ -15745,7 +15745,7 @@
     ns1:inCity <https://example.org/db-delays/resource/City/Sachsen-Anhalt/Bernburg> ;
     ns1:latitude 51.79612 ;
     ns1:longitude 11.751455 ;
-    ns1:postalCode "6404" ;
+    ns1:postalCode "06404" ;
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010053> a ns1:Station ;
@@ -15760,7 +15760,7 @@
 <https://example.org/db-delays/resource/Station/8010060> a ns1:Station ;
     rdfs:label "Station:Brandenburg Hbf" ;
     ns1:evaNumber "8010060" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Brandenburg%20an%20der%20Havel> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Brandenburg-an-der-Havel> ;
     ns1:latitude 52.400554 ;
     ns1:longitude 12.566138 ;
     ns1:postalCode "14776" ;
@@ -15778,7 +15778,7 @@
 <https://example.org/db-delays/resource/Station/8011051> a ns1:Station ;
     rdfs:label "Station:Apolda" ;
     ns1:evaNumber "8011051" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Th%C3%BCringen/Apolda> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Thueringen/Apolda> ;
     ns1:latitude 51.03094 ;
     ns1:longitude 11.526136 ;
     ns1:postalCode "99510" ;
@@ -15799,7 +15799,7 @@
     ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Borna> ;
     ns1:latitude 51.117926 ;
     ns1:longitude 12.486291 ;
-    ns1:postalCode "4552" ;
+    ns1:postalCode "04552" ;
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8011294> a ns1:Station ;
@@ -15814,13 +15814,13 @@
 <https://example.org/db-delays/resource/Station/8080100> a ns1:Station ;
     rdfs:label "Station:Bergfelde (b Berlin)" ;
     ns1:evaNumber "8080100" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Hohen%20Neuendorf> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Hohen-Neuendorf> ;
     ns1:latitude 52.670303 ;
     ns1:longitude 13.320244 ;
     ns1:postalCode "16562" ;
     ns1:stationCategory 4 .
 
-<https://example.org/db-delays/resource/City/Hessen/Bad%20Vilbel> a ns1:City ;
+<https://example.org/db-delays/resource/City/Hessen/Bad-Vilbel> a ns1:City ;
     rdfs:label "Bad Vilbel" ;
     ns1:inState <https://example.org/db-delays/resource/State/Hessen> .
 
@@ -15840,7 +15840,7 @@
     rdfs:label "Boppard" ;
     ns1:inState <https://example.org/db-delays/resource/State/Rheinland-Pfalz> .
 
-<https://example.org/db-delays/resource/City/Saarland/Saarbr%C3%BCcken> a ns1:City ;
+<https://example.org/db-delays/resource/City/Saarland/Saarbruecken> a ns1:City ;
     rdfs:label "Saarbrücken" ;
     ns1:inState <https://example.org/db-delays/resource/State/Saarland> .
 
@@ -15862,7 +15862,7 @@
 <https://example.org/db-delays/resource/Station/8000014> a ns1:Station ;
     rdfs:label "Station:Aulendorf" ;
     ns1:evaNumber "8000014" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Aulendorf> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Aulendorf> ;
     ns1:latitude 47.953052 ;
     ns1:longitude 9.644046 ;
     ns1:postalCode "88326" ;
@@ -15925,7 +15925,7 @@
 <https://example.org/db-delays/resource/Station/8000058> a ns1:Station ;
     rdfs:label "Station:Büchen" ;
     ns1:evaNumber "8000058" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/B%C3%BCchen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Buechen> ;
     ns1:latitude 53.474972 ;
     ns1:longitude 10.623298 ;
     ns1:postalCode "21514" ;
@@ -15997,7 +15997,7 @@
 <https://example.org/db-delays/resource/Station/8000595> a ns1:Station ;
     rdfs:label "Station:Nottuln-Appelhülsen" ;
     ns1:evaNumber "8000595" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Nottuln-Appelh%C3%BClsen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Nottuln-Appelhuelsen> ;
     ns1:latitude 51.892139 ;
     ns1:longitude 7.426334 ;
     ns1:postalCode "48301" ;
@@ -16015,7 +16015,7 @@
 <https://example.org/db-delays/resource/Station/8000630> a ns1:Station ;
     rdfs:label "Station:Asperg" ;
     ns1:evaNumber "8000630" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Asperg> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Asperg> ;
     ns1:latitude 48.907359 ;
     ns1:longitude 9.147797 ;
     ns1:postalCode "71679" ;
@@ -16024,7 +16024,7 @@
 <https://example.org/db-delays/resource/Station/8000634> a ns1:Station ;
     rdfs:label "Station:Aßling (Oberbay)" ;
     ns1:evaNumber "8000634" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/A%C3%9Fling> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Assling> ;
     ns1:latitude 47.989491 ;
     ns1:longitude 11.993518 ;
     ns1:postalCode "85617" ;
@@ -16042,7 +16042,7 @@
 <https://example.org/db-delays/resource/Station/8000725> a ns1:Station ;
     rdfs:label "Station:Bad Münder (Deister)" ;
     ns1:evaNumber "8000725" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bad%20M%C3%BCnder%20am%20Deister> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bad-Muender-am-Deister> ;
     ns1:latitude 52.178192 ;
     ns1:longitude 9.468062 ;
     ns1:postalCode "31848" ;
@@ -16051,7 +16051,7 @@
 <https://example.org/db-delays/resource/Station/8000732> a ns1:Station ;
     rdfs:label "Station:Bad Oeynhausen" ;
     ns1:evaNumber "8000732" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bad%20Oeynhausen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bad-Oeynhausen> ;
     ns1:latitude 52.205398 ;
     ns1:longitude 8.796523 ;
     ns1:postalCode "32545" ;
@@ -16060,7 +16060,7 @@
 <https://example.org/db-delays/resource/Station/8000736> a ns1:Station ;
     rdfs:label "Station:Bad Rappenau" ;
     ns1:evaNumber "8000736" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Rappenau> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Rappenau> ;
     ns1:latitude 49.237765 ;
     ns1:longitude 9.101529 ;
     ns1:postalCode "74906" ;
@@ -16069,7 +16069,7 @@
 <https://example.org/db-delays/resource/Station/8000752> a ns1:Station ;
     rdfs:label "Station:Bad Soden (Taunus)" ;
     ns1:evaNumber "8000752" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad%20Soden%20%28Taunus%29> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad-Soden-Taunus> ;
     ns1:latitude 50.1429607 ;
     ns1:longitude 8.50442648 ;
     ns1:postalCode "65812" ;
@@ -16114,7 +16114,7 @@
 <https://example.org/db-delays/resource/Station/8000873> a ns1:Station ;
     rdfs:label "Station:Benningen (Neckar)" ;
     ns1:evaNumber "8000873" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Benningen%20am%20Neckar> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Benningen-am-Neckar> ;
     ns1:latitude 48.943614 ;
     ns1:longitude 9.244504 ;
     ns1:postalCode "71726" ;
@@ -16123,7 +16123,7 @@
 <https://example.org/db-delays/resource/Station/8000899> a ns1:Station ;
     rdfs:label "Station:Bergisch Gladbach" ;
     ns1:evaNumber "8000899" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bergisch%20Gladbach> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bergisch-Gladbach> ;
     ns1:latitude 50.991461 ;
     ns1:longitude 7.124553 ;
     ns1:postalCode "51465" ;
@@ -16132,7 +16132,7 @@
 <https://example.org/db-delays/resource/Station/8000935> a ns1:Station ;
     rdfs:label "Station:Bad Bevensen" ;
     ns1:evaNumber "8000935" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bad%20Bevensen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bad-Bevensen> ;
     ns1:latitude 53.078247 ;
     ns1:longitude 10.574141 ;
     ns1:postalCode "29549" ;
@@ -16141,7 +16141,7 @@
 <https://example.org/db-delays/resource/Station/8000942> a ns1:Station ;
     rdfs:label "Station:Biberach (Baden)" ;
     ns1:evaNumber "8000942" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Biberach> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Biberach> ;
     ns1:latitude 48.338388 ;
     ns1:longitude 8.032762 ;
     ns1:postalCode "77781" ;
@@ -16159,7 +16159,7 @@
 <https://example.org/db-delays/resource/Station/8000955> a ns1:Station ;
     rdfs:label "Station:Bienenbüttel" ;
     ns1:evaNumber "8000955" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bienenb%C3%BCttel> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bienenbuettel> ;
     ns1:latitude 53.142127 ;
     ns1:longitude 10.484714 ;
     ns1:postalCode "29553" ;
@@ -16177,7 +16177,7 @@
 <https://example.org/db-delays/resource/Station/8000963> a ns1:Station ;
     rdfs:label "Station:Bietigheim (Baden)" ;
     ns1:evaNumber "8000963" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bietigheim> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bietigheim> ;
     ns1:latitude 48.910587 ;
     ns1:longitude 8.258045 ;
     ns1:postalCode "76467" ;
@@ -16195,7 +16195,7 @@
 <https://example.org/db-delays/resource/Station/8001009> a ns1:Station ;
     rdfs:label "Station:Blankenloch" ;
     ns1:evaNumber "8001009" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Stutensee> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Stutensee> ;
     ns1:latitude 49.066528 ;
     ns1:longitude 8.464729 ;
     ns1:postalCode "76297" ;
@@ -16222,7 +16222,7 @@
 <https://example.org/db-delays/resource/Station/8001065> a ns1:Station ;
     rdfs:label "Station:Senden-Bösensell" ;
     ns1:evaNumber "8001065" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Senden-B%C3%B6sensell> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Senden-Boesensell> ;
     ns1:latitude 51.90703 ;
     ns1:longitude 7.487687 ;
     ns1:postalCode "48308" ;
@@ -16240,7 +16240,7 @@
 <https://example.org/db-delays/resource/Station/8001135> a ns1:Station ;
     rdfs:label "Station:Brebach" ;
     ns1:evaNumber "8001135" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Saarland/Saarbr%C3%BCcken> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Saarland/Saarbruecken> ;
     ns1:latitude 49.215859 ;
     ns1:longitude 7.029176 ;
     ns1:postalCode "66130" ;
@@ -16303,7 +16303,7 @@
 <https://example.org/db-delays/resource/Station/8001242> a ns1:Station ;
     rdfs:label "Station:Büchenbach" ;
     ns1:evaNumber "8001242" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/B%C3%BCchenbach> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Buechenbach> ;
     ns1:latitude 49.267766 ;
     ns1:longitude 11.0741919 ;
     ns1:postalCode "91186" ;
@@ -16312,7 +16312,7 @@
 <https://example.org/db-delays/resource/Station/8001245> a ns1:Station ;
     rdfs:label "Station:Bückeburg" ;
     ns1:evaNumber "8001245" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/B%C3%BCckeburg> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Bueckeburg> ;
     ns1:latitude 52.2676584 ;
     ns1:longitude 9.04753625 ;
     ns1:postalCode "31675" ;
@@ -16321,7 +16321,7 @@
 <https://example.org/db-delays/resource/Station/8001252> a ns1:Station ;
     rdfs:label "Station:Bühl (Baden)" ;
     ns1:evaNumber "8001252" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/B%C3%BChl> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Buehl> ;
     ns1:latitude 48.696676 ;
     ns1:longitude 8.129299 ;
     ns1:postalCode "77815" ;
@@ -16339,7 +16339,7 @@
 <https://example.org/db-delays/resource/Station/8001266> a ns1:Station ;
     rdfs:label "Station:Buldern" ;
     ns1:evaNumber "8001266" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/D%C3%BClmen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Duelmen> ;
     ns1:latitude 51.863054 ;
     ns1:longitude 7.370479 ;
     ns1:postalCode "48249" ;
@@ -16357,7 +16357,7 @@
 <https://example.org/db-delays/resource/Station/8005979> a ns1:Station ;
     rdfs:label "Station:Böbingen (Rems)" ;
     ns1:evaNumber "8005979" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/B%C3%B6bingen%20%28Rems%29> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Boebingen-Rems> ;
     ns1:latitude 48.822439 ;
     ns1:longitude 9.912807 ;
     ns1:postalCode "73560" ;
@@ -16366,7 +16366,7 @@
 <https://example.org/db-delays/resource/Station/8010007> a ns1:Station ;
     rdfs:label "Station:Arnstadt Hbf" ;
     ns1:evaNumber "8010007" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Th%C3%BCringen/Arnstadt> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Thueringen/Arnstadt> ;
     ns1:latitude 50.841939 ;
     ns1:longitude 10.948262 ;
     ns1:postalCode "99310" ;
@@ -16378,31 +16378,31 @@
     ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Borsdorf> ;
     ns1:latitude 51.345705 ;
     ns1:longitude 12.541165 ;
-    ns1:postalCode "4451" ;
+    ns1:postalCode "04451" ;
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8011077> a ns1:Station ;
     rdfs:label "Station:Bad Lausick" ;
     ns1:evaNumber "8011077" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Bad%20Lausick> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Bad-Lausick> ;
     ns1:latitude 51.143803 ;
     ns1:longitude 12.648695 ;
-    ns1:postalCode "4651" ;
+    ns1:postalCode "04651" ;
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8011222> a ns1:Station ;
     rdfs:label "Station:Böhlen Werke" ;
     ns1:evaNumber "8011222" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/B%C3%B6hlen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Boehlen> ;
     ns1:latitude 51.184702 ;
     ns1:longitude 12.384024 ;
-    ns1:postalCode "4564" ;
+    ns1:postalCode "04564" ;
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8013470> a ns1:Station ;
     rdfs:label "Station:Bernau (b Berlin)" ;
     ns1:evaNumber "8013470" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Bernau%20bei%20Berlin> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Bernau-bei-Berlin> ;
     ns1:latitude 52.6755689 ;
     ns1:longitude 13.5926414 ;
     ns1:postalCode "16321" ;
@@ -16419,7 +16419,7 @@
 <https://example.org/db-delays/resource/State/Mecklenburg-Vorpommern> a ns1:State ;
     rdfs:label "Mecklenburg-Vorpommern" .
 
-<https://example.org/db-delays/resource/State/Th%C3%BCringen> a ns1:State ;
+<https://example.org/db-delays/resource/State/Thueringen> a ns1:State ;
     rdfs:label "Thüringen" .
 
 <https://example.org/db-delays/resource/Station/8000031> a ns1:Station ;
@@ -16443,7 +16443,7 @@
 <https://example.org/db-delays/resource/Station/8000056> a ns1:Station ;
     rdfs:label "Station:Buchholz (Nordheide)" ;
     ns1:evaNumber "8000056" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Buchholz%20i.d.Nordheide> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Niedersachsen/Buchholz-i.d.Nordheide> ;
     ns1:latitude 53.324683 ;
     ns1:longitude 9.876266 ;
     ns1:postalCode "21244" ;
@@ -16479,7 +16479,7 @@
 <https://example.org/db-delays/resource/Station/8000657> a ns1:Station ;
     rdfs:label "Station:Auggen" ;
     ns1:evaNumber "8000657" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Auggen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Auggen> ;
     ns1:latitude 47.789949 ;
     ns1:longitude 7.586788 ;
     ns1:postalCode "79424" ;
@@ -16488,7 +16488,7 @@
 <https://example.org/db-delays/resource/Station/8000677> a ns1:Station ;
     rdfs:label "Station:Hückelhoven-Baal" ;
     ns1:evaNumber "8000677" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/H%C3%BCckelhoven-Baal> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Hueckelhoven-Baal> ;
     ns1:latitude 51.0329743 ;
     ns1:longitude 6.27280712 ;
     ns1:postalCode "41836" ;
@@ -16497,7 +16497,7 @@
 <https://example.org/db-delays/resource/Station/8000713> a ns1:Station ;
     rdfs:label "Station:Bad Honnef (Rhein)" ;
     ns1:evaNumber "8000713" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bad%20Honnef> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bad-Honnef> ;
     ns1:latitude 50.639772 ;
     ns1:longitude 7.219533 ;
     ns1:postalCode "53604" ;
@@ -16506,7 +16506,7 @@
 <https://example.org/db-delays/resource/Station/8000718> a ns1:Station ;
     rdfs:label "Station:Bad Krozingen" ;
     ns1:evaNumber "8000718" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Krozingen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Krozingen> ;
     ns1:latitude 47.919721 ;
     ns1:longitude 7.697632 ;
     ns1:postalCode "79189" ;
@@ -16515,7 +16515,7 @@
 <https://example.org/db-delays/resource/Station/8000746> a ns1:Station ;
     rdfs:label "Station:Bad Schussenried" ;
     ns1:evaNumber "8000746" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Schussenried> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Schussenried> ;
     ns1:latitude 47.994033 ;
     ns1:longitude 9.668497 ;
     ns1:postalCode "88427" ;
@@ -16524,7 +16524,7 @@
 <https://example.org/db-delays/resource/Station/8000760> a ns1:Station ;
     rdfs:label "Station:Bad Vilbel" ;
     ns1:evaNumber "8000760" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad%20Vilbel> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad-Vilbel> ;
     ns1:latitude 50.188677 ;
     ns1:longitude 8.73946 ;
     ns1:postalCode "61118" ;
@@ -16533,7 +16533,7 @@
 <https://example.org/db-delays/resource/Station/8000761> a ns1:Station ;
     rdfs:label "Station:Bad Vilbel Süd" ;
     ns1:evaNumber "8000761" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad%20Vilbel> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad-Vilbel> ;
     ns1:latitude 50.178696 ;
     ns1:longitude 8.733477 ;
     ns1:postalCode "61118" ;
@@ -16542,7 +16542,7 @@
 <https://example.org/db-delays/resource/Station/8000774> a ns1:Station ;
     rdfs:label "Station:Baden-Baden" ;
     ns1:evaNumber "8000774" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Baden-Baden> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Baden-Baden> ;
     ns1:latitude 48.790327 ;
     ns1:longitude 8.190831 ;
     ns1:postalCode "76532" ;
@@ -16569,7 +16569,7 @@
 <https://example.org/db-delays/resource/Station/8000943> a ns1:Station ;
     rdfs:label "Station:Biberach (Riß)" ;
     ns1:evaNumber "8000943" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Biberach%20%28Ri%C3%9F%29> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Biberach-Riss> ;
     ns1:latitude 48.101845 ;
     ns1:longitude 9.793127 ;
     ns1:postalCode "88400" ;
@@ -16668,7 +16668,7 @@
 <https://example.org/db-delays/resource/Station/8001196> a ns1:Station ;
     rdfs:label "Station:Bruchenbrücken" ;
     ns1:evaNumber "8001196" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Friedberg%20%28Hess.%29> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Friedberg-Hess.> ;
     ns1:latitude 50.301965 ;
     ns1:longitude 8.788402 ;
     ns1:postalCode "61169" ;
@@ -16677,7 +16677,7 @@
 <https://example.org/db-delays/resource/Station/8001215> a ns1:Station ;
     rdfs:label "Station:Brühl" ;
     ns1:evaNumber "8001215" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Br%C3%BChl> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Bruehl> ;
     ns1:latitude 50.829249 ;
     ns1:longitude 6.912718 ;
     ns1:postalCode "50321" ;
@@ -16695,7 +16695,7 @@
 <https://example.org/db-delays/resource/Station/8010018> a ns1:Station ;
     rdfs:label "Station:Bad Kleinen" ;
     ns1:evaNumber "8010018" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bad%20Kleinen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Mecklenburg-Vorpommern/Bad-Kleinen> ;
     ns1:latitude 53.766974 ;
     ns1:longitude 11.466925 ;
     ns1:postalCode "23996" ;
@@ -16704,10 +16704,10 @@
 <https://example.org/db-delays/resource/Station/8010019> a ns1:Station ;
     rdfs:label "Station:Bad Kösen" ;
     ns1:evaNumber "8010019" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Sachsen-Anhalt/Bad%20K%C3%B6sen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Sachsen-Anhalt/Bad-Koesen> ;
     ns1:latitude 51.130742 ;
     ns1:longitude 11.718274 ;
-    ns1:postalCode "6628" ;
+    ns1:postalCode "06628" ;
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010035> a ns1:Station ;
@@ -16765,7 +16765,7 @@
 <https://example.org/db-delays/resource/Station/8000011> a ns1:Station ;
     rdfs:label "Station:Ascheberg (Holst)" ;
     ns1:evaNumber "8000011" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Ascheberg%20%28Holstein%29> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Ascheberg-Holstein> ;
     ns1:latitude 54.148462 ;
     ns1:longitude 10.339481 ;
     ns1:postalCode "24326" ;
@@ -16810,7 +16810,7 @@
 <https://example.org/db-delays/resource/Station/8000508> a ns1:Station ;
     rdfs:label "Station:Altbach" ;
     ns1:evaNumber "8000508" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Altbach> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Altbach> ;
     ns1:latitude 48.720393 ;
     ns1:longitude 9.382384 ;
     ns1:postalCode "73776" ;
@@ -16819,7 +16819,7 @@
 <https://example.org/db-delays/resource/Station/8000712> a ns1:Station ;
     rdfs:label "Station:Bad Homburg" ;
     ns1:evaNumber "8000712" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad%20Homburg> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Hessen/Bad-Homburg> ;
     ns1:latitude 50.219904 ;
     ns1:longitude 8.620624 ;
     ns1:postalCode "61352" ;
@@ -16828,7 +16828,7 @@
 <https://example.org/db-delays/resource/Station/8000832> a ns1:Station ;
     rdfs:label "Station:Leverkusen Chempark" ;
     ns1:evaNumber "8000832" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/K%C3%B6ln> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Nordrhein-Westfalen/Koeln> ;
     ns1:latitude 51.011409 ;
     ns1:longitude 6.996675 ;
     ns1:postalCode "51061" ;
@@ -16837,7 +16837,7 @@
 <https://example.org/db-delays/resource/Station/8000934> a ns1:Station ;
     rdfs:label "Station:Beutelsbach" ;
     ns1:evaNumber "8000934" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Weinstadt> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Weinstadt> ;
     ns1:latitude 48.810293 ;
     ns1:longitude 9.386029 ;
     ns1:postalCode "71384" ;
@@ -16855,7 +16855,7 @@
 <https://example.org/db-delays/resource/Station/8001229> a ns1:Station ;
     rdfs:label "Station:Buchenau (Oberbay)" ;
     ns1:evaNumber "8001229" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/F%C3%BCrstenfeldbruck> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Bayern/Fuerstenfeldbruck> ;
     ns1:latitude 48.160277 ;
     ns1:longitude 11.224497 ;
     ns1:postalCode "82256" ;
@@ -16867,7 +16867,7 @@
     ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Arnsdorf> ;
     ns1:latitude 51.092807 ;
     ns1:longitude 13.982212 ;
-    ns1:postalCode "1477" ;
+    ns1:postalCode "01477" ;
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010049> a ns1:Station ;
@@ -16876,7 +16876,7 @@
     ns1:inCity <https://example.org/db-delays/resource/City/Sachsen/Bischofswerda> ;
     ns1:latitude 51.125585 ;
     ns1:longitude 14.186144 ;
-    ns1:postalCode "1877" ;
+    ns1:postalCode "01877" ;
     ns1:stationCategory 5 .
 
 <https://example.org/db-delays/resource/Station/8010405> a ns1:Station ;
@@ -16917,7 +16917,7 @@
 <https://example.org/db-delays/resource/Station/8000017> a ns1:Station ;
     rdfs:label "Station:Bad Friedrichshall Hbf" ;
     ns1:evaNumber "8000017" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bad%20Friedrichshall> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bad-Friedrichshall> ;
     ns1:latitude 49.231571 ;
     ns1:longitude 9.199771 ;
     ns1:postalCode "74177" ;
@@ -16926,7 +16926,7 @@
 <https://example.org/db-delays/resource/Station/8000053> a ns1:Station ;
     rdfs:label "Station:Bretten" ;
     ns1:evaNumber "8000053" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bretten> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bretten> ;
     ns1:latitude 49.0369 ;
     ns1:longitude 8.693448 ;
     ns1:postalCode "75015" ;
@@ -16935,7 +16935,7 @@
 <https://example.org/db-delays/resource/Station/8000055> a ns1:Station ;
     rdfs:label "Station:Bruchsal" ;
     ns1:evaNumber "8000055" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bruchsal> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bruchsal> ;
     ns1:latitude 49.124622 ;
     ns1:longitude 8.589649 ;
     ns1:postalCode "76646" ;
@@ -17016,7 +17016,7 @@
 <https://example.org/db-delays/resource/Station/8080200> a ns1:Station ;
     rdfs:label "Station:Borgsdorf" ;
     ns1:evaNumber "8080200" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Hohen%20Neuendorf%20OTBorgsdo> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Brandenburg/Hohen-Neuendorf-OTBorgsdo> ;
     ns1:latitude 52.715252 ;
     ns1:longitude 13.27675 ;
     ns1:postalCode "16556" ;
@@ -17056,7 +17056,7 @@
 <https://example.org/db-delays/resource/Station/8000749> a ns1:Station ;
     rdfs:label "Station:Bad Schwartau" ;
     ns1:evaNumber "8000749" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad%20Schwartau> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad-Schwartau> ;
     ns1:latitude 53.916276 ;
     ns1:longitude 10.702722 ;
     ns1:postalCode "23611" ;
@@ -17200,7 +17200,7 @@
 <https://example.org/db-delays/resource/Station/8000023> a ns1:Station ;
     rdfs:label "Station:Bad Oldesloe" ;
     ns1:evaNumber "8000023" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad%20Oldesloe> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Schleswig-Holstein/Bad-Oldesloe> ;
     ns1:latitude 53.8053902 ;
     ns1:longitude 10.3825414 ;
     ns1:postalCode "23843" ;
@@ -17209,7 +17209,7 @@
 <https://example.org/db-delays/resource/Station/8000038> a ns1:Station ;
     rdfs:label "Station:Bietigheim-Bissingen" ;
     ns1:evaNumber "8000038" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/Bietigheim-Bissingen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Bietigheim-Bissingen> ;
     ns1:latitude 48.947933 ;
     ns1:longitude 9.137557 ;
     ns1:postalCode "74321" ;
@@ -17227,7 +17227,7 @@
 <https://example.org/db-delays/resource/Station/8001055> a ns1:Station ;
     rdfs:label "Station:Böblingen" ;
     ns1:evaNumber "8001055" ;
-    ns1:inCity <https://example.org/db-delays/resource/City/Baden-W%C3%BCrttemberg/B%C3%B6blingen> ;
+    ns1:inCity <https://example.org/db-delays/resource/City/Baden-Wuerttemberg/Boeblingen> ;
     ns1:latitude 48.687758 ;
     ns1:longitude 9.004128 ;
     ns1:postalCode "71034" ;
@@ -17522,7 +17522,7 @@
     ns1:postalCode "10827" ;
     ns1:stationCategory 4 .
 
-<https://example.org/db-delays/resource/State/Baden-W%C3%BCrttemberg> a ns1:State ;
+<https://example.org/db-delays/resource/State/Baden-Wuerttemberg> a ns1:State ;
     rdfs:label "Baden-Württemberg" .
 
 <https://example.org/db-delays/resource/City/Berlin/Berlin> a ns1:City ;

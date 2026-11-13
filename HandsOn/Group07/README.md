@@ -21,19 +21,20 @@ The application uses GraphDB to host the knowledge graph. GraphDB runs in Docker
    ```
    The Workbench is then available at http://localhost:7200.
 
-2. Create the repository (only needed once per machine):
-   - In the Workbench go to *Setup → Repositories → Create new repository → GraphDB Repository*.
-   - Set the **Repository ID** to `db-delays` and keep all other settings at their defaults.
-
-3. Import the data into `db-delays`:
-   - Select the repository, go to *Import → Upload RDF files* and upload
-     - `ontology/db-delays.ttl`
-     - `rdf/knowledge-graph-with-links.ttl`
-   - Start the import with the default settings.
+2. The `graphdb-init` service creates the repository `db-delays` automatically
+   (ruleset `rdfsplus-optimized`, `owl:sameAs` reasoning disabled) and loads
+   `ontology/db-delays.ttl` and `rdf/knowledge-graph-with-links.ttl` into it.
+   Check its output with `docker compose logs graphdb-init`.
+   If the repository already contains data, nothing is imported. To reload after the
+   knowledge graph changed, delete the data volume and start again:
+   ```bash
+   docker compose down -v
+   docker compose up -d
+   ```
 
 The SPARQL endpoint used by the app is http://localhost:7200/repositories/db-delays.
 
-4. Start the frontend:
+3. Start the frontend:
    ```bash
    cd app/web
    python -m http.server 8000

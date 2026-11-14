@@ -1,6 +1,6 @@
 const ENDPOINT = "http://localhost:7200/repositories/db-delays";
 const PREFIXES = `PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX ns1: <https://example.org/db-delays/ontology#>
+PREFIX dbd: <https://example.org/db-delays/ontology#>
 `;
 
 export async function select(query) {

@@ -24,6 +24,9 @@ function getSelectedStates() {
   }));
 }
 
+// States passed back from the map page ("Change selection") start out checked.
+const preselected = new Set(new URLSearchParams(location.search).getAll("state"));
+
 function renderStates(states) {
   list.replaceChildren(...states.map(({ state, label, stopCount }) => {
     const input = document.createElement("input");
@@ -31,6 +34,7 @@ function renderStates(states) {
     input.name = "state";
     input.value = state;
     input.dataset.label = label;
+    input.checked = preselected.has(state);
 
     const name = document.createElement("span");
     name.textContent = label;
@@ -56,6 +60,7 @@ async function loadStates() {
       return;
     }
     renderStates(rows);
+    submitButton.disabled = getSelectedStates().length === 0;
     status.hidden = true;
   } catch (error) {
     console.error(error);
@@ -70,9 +75,11 @@ list.addEventListener("change", () => {
 
 form.addEventListener("submit", (event) => {
   event.preventDefault();
-  const selectedStates = getSelectedStates();
-  // TODO: show the train stops of the selected states on a map
-  console.log("Selected states:", selectedStates);
+  const params = new URLSearchParams();
+  for (const { uri } of getSelectedStates()) {
+    params.append("state", uri);
+  }
+  location.href = `map.html?${params}`;
 });
 
 loadStates();

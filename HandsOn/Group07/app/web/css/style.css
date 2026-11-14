@@ -70,3 +70,49 @@ button:disabled {
   background: #c4c9cf;
   cursor: not-allowed;
 }
+
+/* Map page */
+body.map-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.map-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.5rem 1rem;
+  background: #fff;
+  border-bottom: 1px solid #d0d7de;
+}
+
+.map-header h1 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.map-title {
+  margin: 0;
+  color: #656d76;
+}
+
+.map-page .status {
+  margin: 0;
+  padding: 0.5rem 1rem;
+  background: #fff;
+}
+
+.button-link {
+  margin-left: auto;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  background: #ec0016;
+  color: #fff;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.map {
+  flex: 1;
+}
